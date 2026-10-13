@@ -1,0 +1,985 @@
+# How to Use This Manual
+
+This manual collects the teaching from two of the most respected putting specialists who publish on YouTube: **James Jankowski** (the *JJ Putting* channel, also known as "JJ") and **Phil Kenyon** (the *Phil Kenyon Putting* channel, plus his drill and equipment series on the PuttView/Visio Putting channel). Phil coaches many tour players, including Matt Fitzpatrick, Tommy Fleetwood, Justin Rose, Henrik Stenson and Rory McIlroy. James runs a studio built around SAM PuttLab, Quintic Ball Roll and a tilting indoor green, and his podcast guests include Dr Paul Hurrion (Quintic) and AimPoint's Jamie Donaldson.
+
+Every idea in the manual comes from their videos. It is arranged by topic rather than by video, so related advice from both coaches, and from their tour players and guests, sits in one place. Each chapter ends with a short source line naming the videos it draws on.
+
+## How the pages are laid out
+
+[JJ] Blue boxes are James Jankowski's own advice, in his words where possible.
+
+[PK] Orange boxes are Phil Kenyon's advice.
+
+[BOTH] Purple boxes are points where both coaches independently say the same thing. Pay these the most attention.
+
+!KEY Gold boxes summarise the single most important takeaway in a section.
+
+!DRILL Green boxes are drills
+Each drill box tells you how to set it up and what feedback to look for. The Practice chapter collects them into a ready-made library.
+!END
+
+## The big picture in one page
+
+Both coaches organise putting around the same small set of skills. Phil calls them "the three key skills": **start line, speed and green reading**. AimPoint (via JJ's podcast) phrases it as *where you aim, suitable speed and start line*. The stroke (technique) only matters to the extent that it serves those skills. Phil's "biggest mistake golfers make" is having poor *concepts*, for example believing the stroke must go straight back and straight through, and overlooking speed and green reading entirely.
+
+- **Start line**: aim the face correctly and deliver it square, so the ball starts where you intended. It is the skill most within your control. Matt Fitzpatrick calls it "the one third you can guarantee".
+- **Speed**: the right ball speed for the line you chose. JJ: "speed is king". Speed and line are tied together: a given line only works at one speed.
+- **Green reading**: predicting the curve and converting it into a start line. Most golfers under-read, often by about half.
+- **Technique** serves the three skills: efficient setup, an arcing stroke, good rhythm and tempo, centred strike.
+- **Practice and performance**: scored, varied practice that ties the skills together, and a routine and mindset that let them show up on the course.
+
+!KEY If you only remember one thing: almost every bad putt is a mismatch between **line and speed**, often caused by a misread or poor aim rather than a "bad stroke". Diagnose before you change your technique.
+
+## The two coaches at a glance
+
+!TABLE
+Topic | James Jankowski (JJ) | Phil Kenyon (PK)
+Core framework | Visualise the putt, then relate it to a feel for the pace of the stroke. Line and speed must match. | Three skills: start line, speed, green reading. Practise each, then combine them in scored drills.
+Stroke concept | Arc and rotation are natural. Feel the shaft tracking "straight" on plane. Don't force the arc. | The stroke is part of a tilted circle (hula-hoop image). Avoid the straight-back-straight-through belief.
+Acceleration | Momentum going back, peak acceleration in the transition, coast through impact, decelerate after impact. Multiple-stroke drill. | Minimal acceleration around impact. About 2:1 rhythm, equal stroke lengths. The coin must come off in the coin drill.
+Green reading | Visualise the curve first and place a ghost hole at two-thirds. Linear vs non-linear targeting. Uses a line on the ball matched to the curve. | Two-thirds rule (double the offset to get the aim point). Never aim at the apex. Find your best attentional cue.
+Equipment | Fitting with Quintic ball data. Smash factor and ball choice. Mallet vs blade by miss pattern. | Torque and lie-angle-balanced myths explained. Toe hang vs face balance chosen by push or pull bias.
+!END
+
+!SRC Overview of the whole channel catalogue; PK "The Biggest Mistake Golfers Make!"; PK x Matt Fitzpatrick chat; JJ x Jamie Donaldson AimPoint podcast.
+
+# 1. Foundations: The Right Concepts
+
+Phil Kenyon's "biggest mistake" video makes a striking claim: the most common thing holding golfers back is **not** talent, time or physical ability, but the **concepts** in their head. "Anyone can learn to become a great putter. The instincts we need to putt like a pro we're not born with; they're learned." If your mind is set on a poor concept, every hour of practice moves you toward something that can't work. That leads to chopping and changing and getting nowhere.
+
+## Myth 1: "Straight back and straight through"
+
+[BOTH] Both coaches name this as the number-one putting myth. Asked for the biggest myth he had come across, Matt Fitzpatrick answered straight away: "Straight back, straight through. It's physically impossible unless you're going to take your hands with it."
+
+You stand to the side of the ball and the shaft is inclined, about 20° from vertical according to JJ. So any rotation of the upper body moves the putter head **on an arc**: slightly inside going back, square at impact, slightly inside going through. The face opens and closes *relative to the target* but stays square *to that arc*. A stroke that forces the head straight back and through needs extra manipulation of the hands and arms to keep the face square.
+
+!FIG arc
+
+[PK] "A better concept is to view the stroke as forming part of a circle that works on an inclined plane." Phil uses a tilted hula hoop to show it: the putter works "up and inside, back down and out, then up and inside". Your hands, arms and torso also move on circular paths. The arc isn't something you add; it's what happens naturally.
+
+[JJ] James adds a subtlety. "Straight" can be a *good* feel if you mean the **shaft**. When he moves a shaft on plane with a laser attached, the laser tracks a straight line even though the head arcs and the face rotates. So there are three different "straight" ideas: (1) moving the shaft straight on plane (often a great concept), (2) moving the sweet spot straight (out of plane, which forces the face open and makes you work to square it, the most common fault), and (3) keeping the face square to the target (requires manipulation). Don't try to *force* an arc either. Many golfers who learn "the putter should arc" start swinging it around their body.
+
+## Myth 2: "You must accelerate through the ball"
+
+Both coaches and Dr Paul Hurrion reject this. Good putters have their **peak acceleration around the top of the backstroke** (the change of direction) and roughly **zero acceleration at impact**. The putter "coasts" through the ball at constant speed. Chapter 5 covers this in detail.
+
+## Myth 3: "Lock your wrists"
+
+[JJ] "I don't like that terminology." "Locking" suggests gripping tightly, which kills feel. Quiet wrists come from **smooth acceleration and a coordinated motion**, not from grip pressure. Some wrist flow is allowed, especially on longer putts.
+
+## Myth 4: "Every putt is a straight putt"
+
+[JJ] It helps some golfers and actively harms others. Many golfers are better at seeing and reacting to a **curve** than at aiming at a straight-line point on a breaking putt (Chapter 7).
+
+## Myth 5: "Never up, never in" is the whole story on speed
+
+It's partly true: a putt that never reaches the hole can't go in. But the best entry speed is about 1 mph, which means rolling roughly 6 to 18 inches past depending on the putt, not charging it. Jamie Donaldson's stat work also shows that if *all* your misses finish within 2 feet and short, you aren't being aggressive enough (Chapter 6).
+
+## Myth 6: "The ball breaks toward Rae's Creek / the mountain / the sea"
+
+[PK] Landmarks don't pull the ball; only gravity acting on the local slope does. But the surrounding lie of the land can **distort your perception** of a slope. A green tilted against the general fall of the land can look like it slopes more the other way. That is why caddies' folklore "works" sometimes, and why green reading by eye alone is so hard.
+
+## Myth 7: "Changing to a fancy putter or grip will fix it"
+
+[BOTH] JJ tested five grips on one golfer (conventional, prayer, lead-hand-low, claw, pencil) and found that "often just changing your grip may only make subtle changes to your pattern. It's usually more than just the grip." Phil's elite putters "don't panic": after a bad couple of weeks they don't change putter, grip or technique. They look for patterns and fine-tune.
+
+!KEY Get the concepts right first: the stroke arcs on a plane, the putter coasts through impact, quiet wrists come from smooth motion, and line and speed are one decision. With those in place, practice builds skill instead of fighting physics.
+
+!SRC PK "The Biggest Mistake Golfers Make!", "Putting – The Right Concepts", "Raes Creek Myths at the Masters"; JJ "Does the Putting Stroke move Straight or Arc?", "Why the putting stroke must ARC", "Stop Locking Your Wrists", "Sink More Breaking Putts", grip-type short; PK x Fitzpatrick chat.
+
+# 2. Setup, Posture and Calibration
+
+A good setup makes a good stroke *easy*. A poor one forces compensations: lifting the putter, swinging it in, steering the face. Both coaches treat setup as something you **calibrate** (find your personal best position, usually with a mirror) and then **reproduce daily**.
+
+## Eyes and head position
+
+There's no single "correct" eye position. The right one is wherever **your perception matches reality**, so that a straight line actually looks straight to you.
+
+[JJ] Most golfers whose dominant eye is the lead eye (left eye for a right-hander) do well with the **lead eye over or in line with the ball**. Luke Donald, one of the best putters of his era, sets his eyes slightly **inside** the ball with his left eye slightly behind it, because that's where *he* sees the line best (JJ suspects he's right-eye dominant). Most people do best with the **eyeline square** (no tilt), but some benefit from a slight head tilt.
+
+[PK] For "visual aimers" who need a particular eye position to aim well, get into your ideal eye position **first** and *then* aim the putter. A shooter sets the eye and brings the gun to it; they don't point the gun first.
+
+!DRILL Perceptual-bias test (JJ, with string or laser)
+Set a laser or string line from the middle of the ball to the middle of the hole. Push a tee into the ground on that line about 1.5 to 2 feet in front of the ball. Remove the line.
+- Set up with your lead eye over the ball (check with a mirror). Does the tee look exactly on line with the hole?
+- If it looks off, step back slightly so your eye is **inside** the ball. Does the tee move toward the hole? If so, find how far inside it looks perfect.
+- If it gets worse, move your eyes **outside**, over or beyond the ball line.
+- Still biased? Experiment with head tilt (chin up/down, tilt left/right). Most people end up with the eyeline square.
+- Record the position (where your lead eye sits in the mirror) and make it part of your daily **setup calibration**.
+!END
+
+[PK] Phil's T-Line and mirror drills test the same thing. With a straight line pointed at the hole, take your stance and ask: "Where does that line point?" If a straight line **looks left** to you, you will tend to aim or stroke **right** to compensate, which creates a **push bias**. Adjust distance from the ball, neck bend and ball position until straight looks straight.
+
+## Ball position, stance and alignment
+
+[JJ] From Luke Donald, "pretty much textbook":
+- **Ball position**: the back of the ball, or the bottom of the shaft, in the middle of the stance. On a putter with a lot of offset, make sure the *shaft*, not the ball, is centred, so the ball sits slightly forward.
+- **Stance width**: about shoulder width, a stable base. The lower body should stay still (Hideki Matsuyama's legs are "rock solid").
+- **Alignment**: feet, knees, hips and shoulders parallel to the target line. That makes it easy to return the putter square.
+- **Hands**: closer to level than in the full swing (palms more opposed), which brings the shoulders and elbows more level. The lead shoulder sits only slightly higher.
+
+[JJ] Hideki is the counter-example: ball too far forward, so he reaches for it, his shoulders and elbows aren't level, and his head is behind the ball. JJ calls it "almost a mini-driver setup". The result is too much upward angle of attack, the right shoulder dropping, and a face that's hard to square.
+
+[JJ] **Conventional grip and "level shoulders".** With a conventional grip (trail hand lower), square shoulders need a little **spine tilt** (trail shoulder lower) *and* a slightly **open torso**. In a live SAM PuttLab lesson with a tour-standard player, JJ fixed a pull and an under-rotated, above-plane stroke with: ball (shaft) slightly forward, **shoulders retracted** (chest expanded, shoulder blades back, which is more stable than rounded), torso slightly open, trail shoulder lowered, handle slightly up. "Then just rock." Face rotation went from about 3° to about 6° (closer to on-plane) and the pull disappeared. "A lot of the time it's the opposite of what you think."
+
+## Arm structure and "connection"
+
+[JJ] Common mistakes: arms **too straight** with the shoulders slumped forward, or arms **too bent** and pinned to the sides. Ideal: arms **slightly bent**, with the **elbows in front of the rib cage**, and the upper arms **externally rotated** (insides of the elbows showing forward). That creates a light, constant pressure under the armpits, so the upper body controls the motion and the face squares without manipulation.
+
+[PK] Phil's fixes for pushes and pulls are the same idea:
+- **Lead-side push**: the lead arm is disconnected (protracted, internally rotated). In the stroke it works away from the body, the elbow bends, the face stays open and the ball goes right. Fix: lead shoulder neutral, open the palm to externally rotate the upper arm, feel the lead upper arm lightly against the chest, *then* pronate the forearm onto the grip. Keep that pressure and let the arm stay long so the club releases.
+- **Trail-side pull**: the trail hand sits on top and the trail shoulder is pulled up and forward, so the trail arm "fires", wraps the club around and shuts the face. Fix: neutral trail shoulder, externally rotated upper arm, pronated forearm onto the grip, and a feeling that the shoulders and chest work **up and down, not around**.
+
+[JJ] For the **claw grip**, JJ sets the trail arm with the shoulder slightly retracted, the upper arm near its maximum external rotation and the forearm near its maximum pronation. That's a very stable structure.
+
+## Lower body stability
+
+[PK] Excess hip movement (sliding, turning, or the hips moving away from the ball) causes inconsistent strikes and hurts both distance and direction. **Pelvic stability drill**: rest your hip against the edge of a chair, wall or door and keep the pressure constant throughout the stroke.
+
+## Calibrating your setup every day
+
+[PK] "Finding your ideal setup position is really important, but more important is your ability to **recreate it day to day**." Use a **putting mirror**:
+- **On the ground**: square the face to its perpendicular lines; check where your eyes, shoulders and torso sit.
+- **Tilted to the side**, parallel to the target line: check your shoulders, torso and upper arms in your peripheral vision *during* the stroke, along with head stability and the balance of turn and tilt.
+
+!KEY Find the setup where straight *looks* straight, the arms are connected and the body is stable. Then calibrate it daily with a mirror. A large share of "stroke problems" are really setup problems.
+
+!SRC JJ "Do you have a Perceptual Bias?", Luke Donald and Hideki Matsuyama analyses, "Live Putting Lesson with a Pro", arm-structure and "connection" shorts, claw trail-arm short; PK "Stop pushing putts!", "Stop Pulling Putts", "Visual Aimer Putting tips", Odyssey drills 1 and 7, T-Line and Putting Mirror videos.
+
+# 3. Grip and Grip Pressure
+
+## Building a putting grip
+
+The putting grip is *different* from the full-swing grip. In a session JJ shared with the late Biv Wen (drawing on Stan Utley's method), the full-swing grip creates two 90° angles for hinging. The putting grip wants the hands working as a unit with the **palms opposed (180°)**.
+- Start with the trail hand's "lifeline" crease set on the grip and work it toward the lead thumb's knuckle. Both thumbs sit on the flat top of the grip and the hands stay close together.
+- Check that your **forearms are level** (on a matching plane). A high trail forearm angles the shaft and face line away from where the hands point and **complicates aim**. Level forearms make it much easier to aim the face.
+- Grip style changes how the putter sits, so it can change the **lie angle** you need (for example 68° vs 71°). This is something to check in a fitting.
+
+[JJ] The grip types you'll see are conventional, reverse overlap, **prayer**, **lead hand low** (cross-handed), **claw** and **pencil** (a claw variant). In JJ's test the grip changed a golfer's pattern only *subtly*. Choose one that feels stable and controls the face for you, but don't expect a grip change alone to cure everything.
+
+[PK] **Tommy Fleetwood's switch to the pencil/claw grip.** Tommy's arc was good, but his face rotation was inconsistent: sometimes he left the face open, sometimes he rolled it. That made his start lines unreliable. In winter 2015 Phil tested several grips on SAM PuttLab, and with the pencil grip "my rotation of the putter just went so much better... completely calmed down". The benefit Tommy describes is mental too: even on a bad day he knows he controlled the face and start line, "so I never feel lost". He notes that the claw has become "the new left-below-right" on tour, the first change players reach for when struggling.
+
+## Grip pressure
+
+[JJ] Grip lightly enough to *feel* the head. Tight pressure ("locking the wrists") reduces your awareness of where the face and the putter are in space.
+- **Slower tempo or shorter putts**: you need to stabilise less, so you can grip lighter.
+- **Quicker tempo** (e.g. Brandt Snedeker) or **longer putts**: more acceleration to stabilise, so a little firmer.
+- Keep pressure **constant** through the stroke. A pressure spike at impact means you are "hitting" at the ball (see the multiple-stroke drill in Chapter 5).
+
+!DRILL Thumbs-off drill (JJ)
+Take your normal grip, then lift both thumbs off the front of the grip so the putter rests on your fingers. Hover it slightly and make smooth strokes back and through.
+- If your acceleration is smooth and well coordinated, the putter stays stable even with almost no grip pressure.
+- Any sudden burst of acceleration makes the head twist and wobble. That is immediate feedback.
+- Then hit putts with the thumbs off, especially short ones. You'll learn that a quiet face comes from smoothness, not squeezing. "Losing control to gain control."
+!END
+
+!SRC JJ "Biv with some Grip wisdom!", grip-pressure short, "Stop Locking Your Wrists", "Understand & Master Smooth Acceleration", grip-type short; PK x Tommy Fleetwood "Putting Social".
+# 4. Aim and Start Line
+
+Start line is the skill you can most reliably control, and it's the foundation the other skills sit on. If you can't start the ball where you intend, you can never learn whether your read or your speed was wrong. Matt Fitzpatrick: "If you can start online every single time you hit a putt then you've got a good chance... that's the one third you can guarantee." Phil: start line "makes speed control a lot easier, it makes green reading a lot easier."
+
+## How precise does the start line need to be?
+
+- **1° of start-line error** is about the edge of the hole at 10 feet. **2°** is about the edge at 5 feet (Phil).
+- Dr Paul Hurrion's overhead tracking: beyond 10 to 15 feet you need **less than 1°** of start-direction error to have a real chance. On the same line, the ball-speed tolerance for a 15-foot putt can be as small as **0.2 mph**.
+- AimPoint (Jamie Donaldson): once you're **half a degree low** of centre at the right speed, the putt is missed, except on very short putts.
+- Training gates: a 5 cm gate **11 inches** in front of the ball allows about **0.75°**; the same gate **17 inches** away allows about **0.5°** (Phil). The Visio Start Line Trainer has holes for 0.5°, 0.75° and 1° windows. Rolling the ball all the way down a T-Line means less than 0.75° of error.
+
+[PK] On short putts, most start-line failures come from **alignment, not the stroke**. Golfers get so used to (subconsciously) under-reading and aiming high that on shallow short putts they're comfortable aiming well outside the hole. On a 5-foot putt across a 1% slope, the start-line window is tiny even with 3 feet of difference in speed. On short putts Phil encourages many students to **use the line on the ball** to become more precise in their aim, so they can trust it and commit.
+
+## Aim comes before the stroke: routine sequence
+
+[JJ] **Set the putter first.** Align the face behind the ball, *then* build your stance around the putter. Golfers who set their feet first and drop the putter in afterwards aim less consistently.
+
+[PK] **Body aim bias, a real lesson.** A scratch golfer came to Phil's studio missing right, especially on left-to-right putts. SAM PuttLab showed the face aimed about **1.8° open at address** on every putt, plus about 0.8° of opening during the stroke. He had learnt to swing the path left to compensate, but the ball still started about 1.9° right. The cause was his routine. He walked in staring at a spot 2 to 3 feet ahead, his feet set up closed (pointing 2 to 2.5° right) without him noticing, and the putter was open from the moment it went down. The fix was purely a change of **sequence**: step in with **only the trail hand on the putter and the trail foot forward**, aim the face at the spot *first*, then set the feet and body parallel to the putter. His start direction improved from 1.9° to 0.4° right **without discussing the stroke at all**.
+
+[PK] **Aim-focused routine.** Aim often falls apart on the course because attention shifts to speed and to what the putt means. Golfers create a lovely visual from behind the ball, then spend 10 to 15 seconds making practice strokes beside the ball and lose the picture. Instead, **make your practice strokes behind the ball facing down the putt line**. Then step in, place the putter, get your eye position, trace your eyes down to the reference points and go. This matters most from about 15 feet and in. On long putts, practice strokes beside the ball are fine because speed matters more there.
+
+## Using a line on the ball
+
+Neither coach makes this a rule; it depends on the person and even on the putt.
+
+[JJ] James uses a line on **every** putt, but unusually he doesn't aim it at a point. He rotates the line until it **matches the curve he is visualising**: from behind, and then over the ball, "can I see the ball tracking from this line through the ghost hole into the hole?" Adjust until it feels right, then forget the line and focus on the ball's path and speed. "That line dictates speed."
+
+[PK] On straight and short putts, the line helps precision. On breaking putts Phil warns that some people look at a straight line and feel they are aiming **low**, then shove the ball up the slope (Chapter 7, attentional cues).
+
+## Matching the putter's alignment features to your eyes
+
+[PK] Different putters offer different alignment cues: a single line, a perpendicular feature (e.g. Odyssey's Versa pattern), or the top line versus the back edge (a "T" shape). Justin Rose, checked with a laser in a mic'd-up session, tended to aim slightly right with one putter and was experimenting with matching the **top line** versus being aware of the **back shape**. Test which feature helps *you* see square most accurately.
+
+## Training tools for aim and start line
+
+!TABLE
+Tool | What it trains | How (Phil Kenyon / JJ)
+Mirror on the ground | Face aim, eye position, shoulder line | Square the face to the perpendicular lines; check your eyes and shoulders. Calibrate daily.
+T-Line | Perception, face aim, start line | Point it at the hole and ask whether it looks straight. Square the face to the cross-bar. Roll the ball down it (less than 0.75°).
+Laser + tripod (line cap) | Alignment and start line | The beam runs down the target line; watch whether the ball stays on it.
+Laser (dot cap) | Face aim test | Aim, then a friend places the laser against the face. Or align club and laser together, aim, remove the club and fire.
+Start Line Trainer | Face aim and start line | Tee holes give 0.5°, 0.75° and 1° gates. Use it on breaking putts too, to test your read.
+Gate (two tees or balls) | Start line | Matt Fitzpatrick's go-to: "Anyone can hit it through a gate over and over."
+String line plus masking tape | Aim and perception | Mark a square-face line with a Sharpie; remove the string and check what "square" looks like.
+Elevated string line | Visual of the start line | Hang it above the start line on breaking-putt drills.
+!END
+
+!DRILL String and masking-tape aim test (PK, Odyssey drill 1)
+Stretch elastic between two glasses so it runs straight at the target, with masking tape underneath. Square the putter under the string and draw a Sharpie line on the tape to mark a square face. Place a ball midway down the string.
+- Remove the string and take your setup. Does the ball in the middle look *in line* with the hole, or left or right of it?
+- If it looks left you'll tend to aim right, and vice versa. Move closer or further away, chin up or down, until perception matches reality.
+- Then set the putter square to the Sharpie mark. Does it *feel* square from your best position? If not, you've found your aim bias.
+!END
+
+!DRILL Gate start-line ladder (PK)
+Make a 5 cm gate (two Lego bricks, cups or tees) 11 inches in front of the ball. That's about 0.75° of tolerance.
+- Hit 3, 4, 5, 6... up to 10-foot putts through the gate, increasing the length each time.
+- Then hit random lengths (8 ft, 3 ft, 14 ft...), always with a clear distance intention. You train line *and* speed together.
+- Level up: move the gate to 17 inches from the ball (about 0.5°).
+!END
+
+!KEY Aim is a routine and perception skill as much as a stroke skill. Find the setup where straight looks straight, aim the face *before* your body settles, keep the picture fresh, and test yourself through gates.
+
+!SRC PK "The importance of the start line", "Body Aim Bias Putting Lesson Example", "Aim Focused Putting Routine", "Start line and Speed Putting Drill", Start Line Trainer, T-Line, Laser + Tripod and Mirror videos, Odyssey drills 1 and 2, Mic'd Up with Justin Rose; JJ "Set your PUTTER FIRST", "How I use a Line on Breaking Putts!"; JJ x Paul Hurrion podcast; PK x Fitzpatrick chat.
+
+# 5. The Stroke: Arc, Strike, Rhythm and Acceleration
+
+## Arc and face rotation
+
+The stroke arcs because you stand beside the ball with an inclined shaft (Chapter 1). What matters is that the **face stays square to the arc** and the **path at impact runs down the target line**.
+
+[JJ] **Arc versus rotation.** These are two different things that people mix up. *Arc* is how the sweet spot tracks relative to a straight line, seen from above. *Rotation* is how the face turns. It can be measured as **absolute** (relative to the target) or **relative** (relative to the path). You can have arc with no rotation, or rotation with no arc. In a good stroke, face rotation roughly matches the arc, with little relative rotation.
+
+[JJ] **Luke Donald** keeps the "Y" formed by his arms and the putter *unchanged* (43° at address, the top of the backstroke and the finish). Because nothing in that relationship changes, the face stays square to a fairly pronounced arc **with no manipulation**. Steve Stricker is the same: his hands and the putter head travel the same relative distance back and through compared with his sternum.
+
+[PK] **Templates.** The Visio "Mi Putting Template" comes in arcs from **12° to 21°** (inclined-plane angles). The size of your arc depends on your **radius** (the centre of rotation: wrists give a small radius, the torso or sternum a longer one; good putters range from about 105 to 140 cm, roughly the distance from the bottom of the putter to the bottom of the sternum plus 10%) and on your **plane angle**:
+- An upright body or straighter arms with low hands give a more upright plane. Choose about 12° or less.
+- A neutral setup suits 12° to 18°.
+- A more bent-over posture or flexed arms with high hands give a flatter plane. Choose 18° or more. (Shaft plane typically runs 17° to 21°.)
+
+[PK] Don't try to copy every marking on a template. Use it as a **reference**: film the stroke from above with your phone, see what the face and path do, and build a library of how your stroke looks when you putt well versus badly.
+
+!DRILL Path symmetry under a string (PK, Odyssey drills 5 and 6)
+Set an elevated string over the ball-to-target line.
+- Make rehearsal strokes. The putter should work *slightly inside* the string going back, square at impact, and *slightly inside* going through. It should not go outside and across, or inside-to-out.
+- Add four balls as guides: one just outside the toe and one just outside the heel at impact, then one very close to the toe on the backswing (you'll clip it if you go straight back or outside) and one slightly inside with a small gap from the heel (you'll clip it if you go too far inside). Mirror them on the follow-through.
+- An in-to-out or out-to-in path through impact adds sidespin, which can knock the ball offline as it meets the grass.
+!END
+
+!DRILL Tee-gate path and strike drill (JJ)
+Using a chalk line, push in tees just a couple of millimetres outside the toe and heel at impact, then again 3 to 4 inches behind and 3 to 4 inches in front of the ball.
+- The stroke arcs naturally, but through a few inches either side of impact there's very little curve. Learn to "control the mass" of the putter through the gates, first without a ball and then with one.
+- Hitting the outer back tee means you're taking it too far out; the inner one means too far in. Clipping on the way down means you're looping under.
+!END
+
+## Strike: hitting the sweet spot
+
+[BOTH] A centred strike is a major factor in **both distance and direction**. A toe or heel strike twists the face, so the ball starts off line, and it transfers less energy, so the ball comes up short.
+
+!DRILL Strike-feedback drills
+- **Blu-Tack (PK, Odyssey drill 8):** stick two strips on the face slightly narrower than the ball, either side of the sweet spot. A mis-hit catches the putty: the ball goes sideways, travels less far and sounds different.
+- **Two-ball gate (PK):** place balls just outside the heel and toe with a tiny gap. **Vary your stroke length** so you can't groove one small stroke.
+- **Tee gate (JJ):** as above, the tees at impact also act as a strike gate.
+!END
+
+## Wrists, hands and coordination
+
+[JJ] Quiet wrists come from **smooth acceleration** and **coordination**: the arms moving in time with the shoulder rock. If the arms outrace the body, or acceleration suddenly spikes, the wrists flex and extend.
+
+!DRILL Tee-in-the-grip drill for wristy short putts (JJ)
+Push a tee into the top of the grip.
+- With a conventional grip, keep the gap between the tee and your lead wrist constant, and keep the tee pointing at the **same spot on your body** (e.g. the sternum) throughout your practice strokes. With lead-hand-low, monitor it against the trail wrist.
+- That keeps the putter moving around a constant centre, with no wrist hinge away from the ball and no excessive handle push in the transition. Then repeat it with a ball.
+!END
+
+[PK] **Seve Ballesteros** was extremely hands-and-arms dominant, with lots of in-plane shaft rotation, yet he **matched the shaft angle at impact** and was a magical putter. Later in his career his setup became more orthodox. Lesson: "We all move our hands and arms... it's how we *coordinate* those segments in the most efficient manner."
+
+## Rhythm, tempo and acceleration
+
+Rhythm and tempo are the most important technical factors in **speed control**, and the area where both coaches have the most data.
+
+!TABLE
+Term | Meaning | Benchmarks from the videos
+Tempo | Overall stroke time (fast or slow) | Varies by player. Metronome about 85 to 110 bpm; about 100 bpm is a PGA Tour average (JJ). Example timing: 643 ms back + 322 ms down, just under 1 second (PK, SAM PuttLab).
+Rhythm | Ratio of backstroke time to downstroke time | About **2:1** for good putters, the same across all putt lengths (PK). JJ's count is "1-2-3": the backstroke takes as long as the downstroke plus the follow-through.
+Stroke length balance | Backstroke length vs follow-through length | About **equal**, close to 50/50 (JJ). The follow-through is the same or fractionally shorter (Hurrion).
+Acceleration profile | Where force is applied | Peak at or just before the **top of the backstroke** (transition). About **zero at impact** (coast). Gentle deceleration after impact.
+!END
+
+!FIG accel
+
+### The efficient acceleration pattern (JJ and PK agree)
+
+1. **Accelerate away** from the ball, enough to build momentum. The most common amateur fault is a backstroke that is **too slow or too short**: "I have nothing to counter in my transition."
+2. **Start the downstroke before the backstroke finishes.** Good putters "help the putter transition" rather than letting gravity stop it. JJ calls this the **transition lag**: the shaft flexes slightly at the change of direction. This is where peak acceleration happens.
+3. **Acceleration decreases** through the downstroke to roughly **zero at impact**. The putter *coasts* at constant speed, like a pendulum at the bottom of its swing.
+4. **Decelerate after impact** to stabilise. The shaft re-flexes in the follow-through.
+
+[JJ] **The car analogy.** You must be doing exactly 30 mph as you pass a lamppost. It's far easier to reach 30 mph *early* and set the cruise control than to still be accelerating from 25 to 30 at the lamppost. Dr Paul Hurrion filmed Ben Crenshaw in exactly this "cruise control" for the last 2 to 3 inches before impact.
+
+[PK] **Why acceleration at impact hurts.** A short, slow backstroke has little energy, so you must over-accelerate near the ball, which is hard to time. A long, brisk backstroke builds too much energy, so you decelerate. **Equal stroke lengths plus a 2:1 rhythm** produce the right acceleration "for free". A stroke that is short back and long through means you're over-accelerating; long back and short through means you're decelerating.
+
+[PK] **Impact ratio (smash factor) rises with acceleration.** Hurrion explains that the ball stays on the face long enough that an accelerating putter keeps pushing it, so it leaves faster than the putter's measured speed (up to twice as fast in extreme cases). That makes ball speed less predictable. A coasting putter gives a softer, more consistent ball speed.
+
+### The truth about the coin drill (PK, SAM PuttLab)
+
+Place a coin in the putter's cavity. Some coaches tell students to keep it **on**, supposedly for a smooth transition; others let it come **off**. Phil measured both with his colleague Mike, a good putter:
+- **Coin allowed to fly off at the top**: natural timing (643 ms back, 322 ms down, about 2:1). Peak acceleration at the top, near-zero acceleration at impact. A great profile.
+- **Coin kept on**: forced a very slow backstroke (800 ms) and a slow transition (450 ms). The ratio dropped, there was little energy at the top, a large acceleration at impact, and peak speed *after* impact. The ball barely reached the hole. "You don't see many great putters with this profile."
+- **Verdict: the coin must come off.** If you over-accelerate at impact, use the coin drill on **8 to 15-foot putts** (not short ones) to learn a better change of direction. "If anyone's telling you to keep it on, you're being short-changed."
+
+!DRILL JJ's multiple-stroke drill
+Grip lightly and keep the pressure constant. Swing the putter back and forth continuously with momentum, feeling the gentle opposing acceleration at each end (toward the target at the top of the backstroke, away from it at the end of the follow-through).
+- Without stopping, address a ball and let the swinging putter's **momentum** hit it. Then let the motion continue after impact so you feel the deceleration.
+- Watch your grip pressure. If it spikes at the ball, you are "hitting".
+- If the putt comes up short, don't hit harder. Go back **faster and longer** to create more momentum.
+!END
+
+!DRILL Metronome tempo ladder (JJ)
+Download a metronome app (try 85 to 110 bpm; JJ uses 100). Put one tee level with the back of the ball as a face reference, and two tees an equal distance either side (at least half a putter-length).
+- **Level 1:** swing "1-2-3" in time: back to the rear tee on 1, through the ball on 2, to the front tee on 3. Repeat the same putt; the balls should cluster.
+- **Level 2:** move the tees further out. Keep the *same* tempo, so the backstroke must move faster to cover more distance, and the balls cluster further away.
+- **Level 3:** alternate between the near and far tee sets, as on the course. If you're not rhythmical, count "1-2-3" in your practice strokes instead.
+!END
+
+!DRILL "One-two" length ladder (PK)
+Count a brisk "one" for the backswing and "two" for the whole forward swing, with equal swing lengths back and through. That produces about a 2:1 backswing-to-impact ratio.
+- On a green without a hole, hit an 8-foot putt. Then, keeping exactly the same "one-two", swing a little longer and roll the next ball about 5 feet further. Keep layering.
+- The only variable is swing length. Timing never changes, so on longer putts the club simply moves faster.
+!END
+
+[JJ] **LagShot-style feedback.** A whippy-shafted training putter shows the pattern clearly: a slight lag as you start back, a lag in the transition, the shaft returning to **vertical at impact** (released), then re-lagging after impact. A longer stroke produces more lag, but the timing stays the same.
+
+!KEY Short putt or long putt: *same tempo, different speed* (JJ). Momentum going back, peak acceleration at the transition, coast through impact. A slow, short backstroke followed by a hit is the single most common stroke fault both coaches see.
+
+!SRC JJ "Does the Putting Stroke move Straight or Arc?", "Easy STRIKE and PATH Putting Drill", Become LESS WRISTY with the TEE DRILL, Luke Donald analysis, "Is your backstroke too slow??", "The JJ Multiple Stroke Putting Drill", "Putting Tempo Drill using a METRONOME", "Load It. Unload It.", "Understand & Master Smooth Acceleration", "Why we want zero acceleration at impact", transition shorts; PK "The truth about the coin drill!", Odyssey drills 3, 5, 6 and 8, "Control your rhythm and tempo", "How do I improve my putting distance control?", "Develop a consistent stroke", Mi Putting Template videos, Seve Ballesteros analysis; JJ x Paul Hurrion podcast.
+
+# 6. Speed Control
+
+"Speed is king" (Jamie Donaldson on JJ's podcast). Tour players' biggest advantage over amateurs isn't their make percentage. It's that their **misses finish close**: their speed graphs show no "spikes" of long misses. A 17-handicapper three-putts about **one in four** 20-foot putts (Stuart Leong's data), so better speed alone can save several shots a round.
+
+## Ideal entry speed: about 1 mph and the decay phase
+
+[JJ] After the skid, a ball decelerates at a **steady rate** until it slows to about **0.95 mph**. Below that, the rate of deceleration **increases sharply**: the **decay phase**. In the decay phase the ball is far more affected by imperfections, so a straight putt starts to wobble, and **it breaks much more**, so a breaking putt "snaps" low across the front of the hole. (Sources: Dr Paul Hurrion's research and JJ's own testing.)
+
+!FIG entry
+
+So JJ prefers to think of **entry speed** rather than "distance past". A good target is about **1 mph at the front edge**, a ball that would hit the **bottom of the back of the cup**, not slam into the back wall. How far past that rolls depends on the putt:
+- About **16 to 18 inches** past on JJ's 10.5-stimp indoor green.
+- About **12 inches** past on a flat 9.5-stimp grass green (Hurrion).
+- About **6 inches** past on a 3% uphill putt (Hurrion).
+- **Exception:** on a fast, steep downhill putt (e.g. 3% down on a 12-stimp green) 1 mph would run far too far. Accept a softer, decaying entry there.
+
+[BOTH] AimPoint's classroom benchmark (via Jamie Donaldson) is **6 to 12 inches past, about 9 inches**. At least 6 inches past keeps the ball rolling end-over-end through the imperfections around the hole. By a foot past, the effective hole is shrinking fast, because the ball must hit it more centrally. When the best putters are "putting the lights out", most putts finish **about a foot past**. A player who regularly runs it 3 to 4 feet by is relying on making clutch return putts, which "isn't sustainable".
+
+[BOTH] But don't be *too* careful. If your speed misses all finish inside 2 feet and **short**, you're probably not giving birdie putts a chance. You need some long misses. Adjust your read to your intended speed: on a lag putt an over-read with softer speed is fine; on a must-make putt, play firmer and less break.
+
+## The two keys to feel (JJ)
+
+[JJ] "When I see golfers trying to calculate (this is 30 feet, it's 10 stimp but 2% downhill, so I need a stroke like this), that's not something I see the best putters doing." James's two keys:
+
+1. **Visualise the speed of the ball** travelling along its path. Pick a point about a third of the way back from the hole (a ghost hole about 6 feet out) and see *how fast* the ball should be crossing it to finish dead-weight or slightly past. Downhill or faster greens mean the ball travels **slower**. Uphill or slower greens mean it must travel **faster**.
+2. **Relate that picture to a *pace* of stroke**, not a length of stroke. "The length is a consequence of the pace." Make practice strokes while looking at the target and painting the picture, then "putt to my picture", as Tiger Woods describes.
+
+[JJ] **Think faster, not longer.** A longer putt needs more putter speed throughout the stroke. The extra speed creates the extra length. Make the putter move at the speed that will produce the ball speed you're picturing.
+
+## Focus of attention (PK)
+
+[PK] A big cause of poor distance control is an **internal focus**: thinking about technique detaches you from the target. Make a practice stroke while **looking at the hole**, feeling the size and energy of the stroke. Step in, look at the hole, and as your eyes return to the ball **keep the hole in your mind's eye**. Then swing *to* the target. "If we're going to throw a ball to someone, we wouldn't be thinking about the elbow or the wrist release. We'd be focused on that person."
+
+[JJ] Tiger Woods's practice strokes are realistic, made while taking in the target, building feel rather than just going through the motions.
+
+## Equipment and conditions that change speed
+
+- **Ball choice**: different balls come off the same putter at different speeds. JJ measured a Titleist Pro V1 at about **1.68 to 1.70** impact ratio and a TaylorMade Speed Soft at about **1.74 to 1.76**. With the softer ball he swung 0.3 mph *slower* yet the ball came off faster. **Practise with the ball you play.** (Steve Stricker struggled in team events using Tiger's ball; Justin Thomas noticed a new ball model.)
+- **Putter face or insert**: a new putter can change the impact ratio. Danny Willett's "better rolling" putter left him a foot to a foot and a half short every time.
+- **Off-centre strikes** cost distance, especially with blades (Chapter 10).
+- **Practice-spot wear**: hitting more than about 10 putts from the same spot packs a depression, and later putts roll measurably faster (Hurrion). Move the ball regularly in speed drills.
+- **Grain** (Chapter 7) changes effective green speed uphill and downhill.
+
+## Speed drills
+
+!DRILL The Box Drill (PK, Odyssey drill 4)
+Mark a box about 8 feet long by 3 feet wide. Place a ball about 10 feet from its entry edge.
+- Ball 1 must *just* pass the entry line. Each following ball must pass the previous ball but stay inside the box.
+- Count how many balls you fit in. The first putt must be barely in, to leave room. Beat your score each day.
+!END
+
+!DRILL Matching intentions: one putt, six lines (PK, PuttView drill 06)
+Choose a 7-foot putt across a 2% slope.
+- Hole it on the **highest line at dead-weight speed**, then on the **lowest line with firm speed**.
+- Move to a downhill version (the corridor of possible lines widens) and an uphill version (it narrows), and repeat both intentions.
+- You never hit the same putt twice. You're training your ability to deliver the speed your chosen line demands.
+!END
+
+!DRILL Three speeds, three lines (PK, PuttView episode 2)
+On a 13-foot putt across a 3% slope, hit it at **dead weight**, **18 inches past** and **3 feet past** speeds. Each needs a different aim point.
+- Try to hole all three by matching speed to line. "Adjustability and variability is often something we overlook in an effort to be consistent."
+!END
+
+!DRILL Breaking-putt speed ladder, 6 to 12 feet (JJ)
+Pick a putt with a decent break. Mark the ball spot with chalk, work out the start line for your ideal entry speed, put down a tee, and draw a 3-foot chalk line along the start line (18 inches either side of the ball). Hang an elevated string over it if you like.
+- **Level 1:** hole several in a row from the spot, matching speed to that start line.
+- **Level 2:** move the ball 12 to 16 inches *closer* along the line (softer entry) and 12 to 16 inches *further* (firmer). Try to hole three in a row from the three positions.
+- You'll learn which entry speed you hole best on each putt type. JJ, for example, struggles with firm downhill left-to-right putts.
+!END
+
+!DRILL Speed and line matching with a ghost hole (JJ)
+Read the putt and place a ghost hole (poker chip or disc) at the two-thirds point where you think the ball crosses at your stock speed. Test it.
+- Now hole one putt that rolls **above** the disc (softer), one **below** it (firmer), and one **through** the middle. Then alternate between them.
+- "What separates the great putters from the good putters is immaculate speed control."
+!END
+
+!DRILL Lag drills
+- **Tee behind the hole (Fleetwood):** put a tee 1 to 3 feet behind the hole and roll putts to that pace. Build back from 10, 15, 20, 25 and 30 feet to get the flow.
+- **Chalk-line entry speed (JJ):** mark a spot with chalk, work out its start line, and draw a 3-foot line 18 inches either side. Hole putts from different points along the line: closer means lower entry speed, further means higher.
+- **Interim target for super-fast putts (JJ):** on a steep downhill putt, find where the fall line runs down to the hole, place a disc there, read the putt **to the disc** as if it were the hole, and try to stop the ball on it. Let gravity do the rest.
+- **The 1-2 length ladder (PK):** see Chapter 5.
+!END
+
+!KEY Picture the speed of the ball across the green, especially at the two-thirds point, then match a *pace* of stroke to it. Aim for about 1 mph at the front edge (it should hit the bottom of the back of the cup), and practise varying speeds and lines, not repeating the same putt.
+
+!SRC JJ "Entry Speed Secrets: Master the 'Decay Phase'", "The 2 Keys to Speed Control", "Better Distance Control in Putting", "Stop thinking longer and think faster", "Mastering Breaking Putts: Speed Drill", "Putting Speed and Line Matching Drill", "Struggle with FAST PUTTS?", speed-drill short, "Visualise Putts LIKE TIGER WOODS", "Why Smash Factor Matters", "Practice and Play with the same ball!"; PK Odyssey drill 4, PuttView drill 06 and episode 2, "Fix your speed control and stop three putting!"; JJ x Donaldson and Hurrion podcasts; PK x Fleetwood.
+# 7. Green Reading and Breaking Putts
+
+Green reading is the skill amateurs neglect most, and the one where both coaches see the biggest errors. AimPoint's experience (Jamie Donaldson) is that the **average visual misread is about 50%**: people see half the break that's really there. Jamie can "count on one hand" the players who over-read. Phil agrees: "A common reason golfers miss putts low (you're going to find this hard to believe) is that you don't read enough break. It's that simple."
+
+## What makes a putt break more
+
+[JJ] On a consistent slope, **the longer the ball takes to reach the hole, the more it breaks**. So break increases with:
+1. **Softer speed** on the same putt.
+2. **Faster greens** (the ball travels more slowly).
+3. **Longer putts.**
+4. **Downhill rather than uphill.** You hit uphill putts harder, so they get to the hole sooner and break *less*. Downhill putts break *more*, contrary to what many golfers believe.
+
+Also, the **decay phase**: as the ball drops below about 1 mph near the hole it breaks sharply (Chapter 6). Dying putts fall off low.
+
+## The ball breaks early: never aim at the apex
+
+[BOTH] The **apex** is the point on the curve furthest from the straight line between ball and hole. On a constant slope it sits just *past* halfway. Golfers often picture the last part of the curve quite well, then **aim at, or just outside, the apex**. But the ball starts curving the moment it stops skidding, about 90% of its journey, so it is already *below* the apex by the time it gets there. The result is a low miss, every time. A top-10 player Hurrion worked with aimed at the apex; Phil's PuttView X student did the same.
+
+[PK] "The apex is never a point you would aim at. You've always got to aim higher than the apex." A common false picture is a ball travelling nearly straight for a long way and then breaking late. In reality it peels off early.
+
+## The two-thirds rule
+
+[BOTH] On a **planar slope** (one constant tilt between ball and hole) there is a precise relationship at **two-thirds of the way to the hole**. The point where the ball crosses at two-thirds lies **exactly midway** between the straight line to the hole (the baseline) and the start line. Equivalently, if the ball passes *d* inches from the baseline at two-thirds, your start line passes **2d** from the baseline at that point. Phil: "It's the only point where that relationship occurs." AimPoint calls the equivalent point the **drop point**. It occurs after the apex and is far more predictable (about 8% variability) than the apex, which "moves around a lot".
+
+!FIG two_thirds
+
+How to use it:
+1. Picture the curve at your intended speed.
+2. Find where the ball crosses at two-thirds of the distance. Mark it mentally, or in practice with a ghost hole, coin or chalk dot.
+3. Double that offset to get the start line, or simply aim so the ball will start on a line twice as far from the baseline as the two-thirds point.
+4. A softer speed means a bigger curve, but the **start line is still twice the offset** of the new two-thirds point.
+
+[JJ] James builds his read **from the picture first**. Before choosing a start line, he places a ghost hole at two-thirds where he believes the ball will pass, checks it from behind and from over the ball, adjusts it ("that looks a little low"), and only then works out the start line. "I see golfers picking a spot up by the hole before they've even pictured what the ball is going to do."
+
+[PK] **Missing high with the right line.** Phil sees a different problem in some golfers. The read and line are correct, but standing over the ball the curve *looks low* to them, so they adjust higher and miss high. The fix uses the same geometry: let your eyes leave the aim line and pass through the point **midway between aim line and baseline at two-thirds**. It will feel low; trust it.
+
+## Linear vs non-linear: how you target the read
+
+[BOTH] Once you have a read, there are different ways to aim at it. Both coaches say you must **find out which works for you**, and it may differ by putt type (left-to-right vs right-to-left, inside 6 feet vs outside).
+
+!TABLE
+Style | What you look at | Notes from the videos
+Linear: aim point | A point level with the hole ("2 cups outside") | Common, but Phil sees linear readers under-read most. Tee-peg-at-the-aim-point users can end up pushing or pulling putts to hit the peg.
+Linear: two-thirds or drop point | A point relative to the two-thirds crossing | AimPoint's drop point and JJ's ghost hole.
+Linear: spot putting | A spot just in front of the ball on the start line | David Howell picks a spot and doesn't even look at the hole.
+Non-linear: curve | The whole curve and its entry point | JJ and Phil are both curve-seers. Phil focuses on the curve and the *entry point*. Ross Fisher "sees the white line".
+Hybrid | Line on the ball matched to the visualised curve | JJ's method: a line on every putt, rotated to the curve, not to a point.
+!END
+
+[PK] **Attentional cue test.** Set up a breaking putt on its correct line (use an elevated string to confirm). Put a **gate** a foot in front on the start line, **coins at the apex**, **coins at the entry point**, and a **ball at the hole-high aim point**. Remove the string. Hit sets of putts while focusing on (1) the aim point, (2) the intermediate point or gate, (3) the apex, and (4) the curve and entry point. **Whichever focus gets the most balls through the gate is your cue.** Phil putts best looking at the curve and entry point. When he forces himself onto a straight aim line he consistently pushes the ball up the slope.
+
+[PK] Many golfers who aim in a straight line on a breaking putt *feel* they're aiming low of the aim point and instinctively shove the ball up the slope. If that's you, let your eyes run down the curve. For about 90% of people that feels correct.
+
+[JJ] Inside about 6 feet, many players go "curve" because the hole is in their peripheral vision. Further out they rely on a line. Tour players sometimes **switch styles** when things aren't clicking: "Scrap the line, let's go curve."
+
+[PK] **You must be able to aim at a better read.** In Phil's PuttView X lesson, a student's sense of the curve was good but she aimed far higher than her own chosen point, a habit left over from years of under-reading. Holding the picture of the curve and letting her attention travel down it, rather than to the aim point, lined her up correctly and the putt went in. "If you can't aim at that better read, there's no point improving your green reading."
+
+## Feeling the slope: AimPoint
+
+[JJ] From JJ's podcast with **Jamie Donaldson**, AimPoint Europe's lead instructor:
+- **Feet, not eyes.** Your eyes are fooled by the surroundings (as in the Rae's Creek effect), so AimPoint uses your **feet** to feel the slope percentage.
+- **Units.** Its biggest strength is that it gives you a *measurement*. "Aim there" has no units, so you can't adjust it. "It's a 2, add half for the grain" can be adjusted and learned from: "Felt like a 2, aimed at 2.5, missed low, so next time 3."
+- **A repeatable process** keeps you present: feel the slope, find the percentage, find the start line, choose a speed, map the curve, rehearse, putt. After a miss, ask what failed (curve, speed, start line, strike) rather than drifting into "this green's against me".
+- **AimPoint Express** (the finger method) took about 10 seconds a read and spread across the tour from 2015: Brian Gay, Steven Bowditch, and Adam Scott, who shot 62 at Bay Hill before he'd been taught it properly and then won the Honda Classic.
+- **Calibrate** on the practice green before the round. Tommy Fleetwood's caddie Ian Finnis spends up to two hours a morning attuning his feet.
+
+[PK] **Tommy Fleetwood** reads with his eyes while his caddie reads with his feet. They agree a line and commit. "A committed, functional read is better than a perfect read you're not committed to." **Matt Fitzpatrick** warns about the opposite extreme: he once got "too sciency" with AimPoint and green books ("if this is 1% and this is 2% it should be 7 inches outside") and lost his instinct. Use the science to prepare, and the art (see it, feel it) to perform.
+
+## Grain, wind and green books
+
+- **Grain** tends to grow **downhill**, following the slope, so downhill putts play faster and uphill putts slower. A stimp of 8 can play like 9 downhill and 7 uphill. On **very flat** areas grass may grow against a slight slope, so pay attention to grain there. Work it out from putts on the practice green (Donaldson).
+- **Wind**: at about 10 mph at the flag the ball is affected. Add or subtract part of a unit (Donaldson).
+- **Green books** help poor green readers more than good ones (Fitzpatrick). He uses only the slope arrows, and only when stuck, with his caddie holding the book so he isn't tempted to consult it on every hole.
+
+## The straight putt and the "compass"
+
+!DRILL Compass (clock) drill (JJ)
+On a reasonably planar slope (try 1 to 4%), mark 8 positions around a hole at the same distance: N, NE, E, SE, S, SW, W, NW, with chalk or tees.
+- **Find the straight putts** first: dead uphill and dead downhill on the fall line. On the course, finding the nearby straight putt tells you which way your putt breaks (one side breaks right-to-left, the other left-to-right). It also gives you a strategy: "If it's nearly straight, go inside right. If it doesn't break it catches the right edge; if it does, it catches the left."
+- **Maximum break** is on the putts perpendicular to the fall line (E and W). Mark the start line for those with a tee.
+- Use that reference for the diagonals. Pull it back toward hole-high, then go **inside** the reference on uphill diagonals (they break less) and **outside** it on downhill ones (they break more). Hit putts from random points in between to learn break around the whole clock.
+- **Scoring version:** do 3, 4, 5 and 6 feet (32 putts). Score a point only if you hole it first time, but re-hit until you hole it, for learning. Tour make rates are about 95% from 3 ft, 85% from 4 ft, 75% from 5 ft and 65% from 6 ft, so a tour-level score is missing no more than 4 or 5.
+!END
+
+## Green-reading feedback drills
+
+!DRILL Read vs execution with a ghost hole (JJ)
+Read a breaking putt and place a ghost hole at two-thirds where you think the ball will cross. First, confirm the read: hole a putt that rolls over the ghost hole. Then use it as feedback on every miss:
+- **Missed the ghost hole high or low** means the miss came from start line or aim.
+- **Rolled over the ghost hole but missed the cup** means speed: too firm to take the break, or too soft and it fell away.
+- AimPoint users can put the drop point in instead and reverse-engineer it.
+!END
+
+!DRILL Map the curve, then predict (Hurrion, PK, JJ)
+- Before hitting, place 3 or 4 discs, coins or chalk dots where you believe the ball will travel. Then putt and compare. "The number of times they get it completely wrong... Isn't that a fundamental part of reading a putt?" (Hurrion)
+- **Build from the hole back (PK):** lay out the curve starting at the hole, look from behind, and only then ask how high you must start the ball to meet that curve. Linear readers usually find it's much higher than they thought.
+- **Tendency analysis (PK):** hit 3 putts to the same hole from different angles across a 2% right-to-left slope, then repeat with downhill and uphill versions (9 putts). Look at where they finish. Phil found his own pattern: right-to-left putts missed low and left. Everyone has biases; most don't know them, and they differ between left-to-right and right-to-left, and between uphill and downhill (Hurrion).
+- **Gate on a known-correct line (PK):** if your putts keep catching the *high* side of a gate set on a confirmed line, the high miss comes from aim or stroke, not the read. Habitual high-missers have usually *under*-read for years and learned to start the ball high.
+!END
+
+!DRILL Woodland / Fitzpatrick two-thirds options drill (PK)
+Gary Woodland picks a point about two-thirds of the way down the putt where he thinks he could hole it **low** of that point and **high** of that point. Seeing the range of holeable lines made him realise he doesn't need a perfect read. That gave him psychological freedom and a better feel for speed. Matt Fitzpatrick places a tiny fake hole at his predicted two-thirds point, works out the start line, then checks his prediction against PuttView.
+!END
+
+[JJ] **Options on breaking putts.** The high and low lines can look very different on a quick 4% green, but Jamie Donaldson notes that the difference between the highest and lowest holeable lines is often only about **2 to 3 inches at the drop point**. Uphill shallow putts have a narrow "cone" of lines; downhill breaking putts a wide one. Hurrion found that different entry lines need quite different start directions but only *small* speed changes. Stay "down the middle of the road" with an acceptable speed. Breaking putts give you options; test the boundaries in practice.
+
+!KEY Read the curve first, using the two-thirds point, then derive the start line (twice the offset). Never aim at the apex. Expect more break than your eyes suggest, especially downhill, on fast greens and on dying putts. Then learn whether you aim best at a line or a curve.
+
+!SRC JJ "GREEN READING – What 4 things make a putt break more?", "Sink More Breaking Putts", "Stop AIMING your putts at the APEX!", "HOLE MORE breaking putts?", "Master Short Putts with the Compass Drill", "Aiming Breaking Putts" shorts; PK "Putt Geometry – The Apex", "Stop underreading putts", "Missing putts low", "How to build a true picture of the break", "Missing putts high" (two videos), "Learn where your misses come from", PuttView episode 3, Drill 04 Analyze your tendencies, PuttView X lesson and interview, "5 effective ways of putting practice"; JJ x Donaldson and Hurrion podcasts; PK x Fleetwood and Fitzpatrick.
+
+# 8. Short Putts
+
+Tommy Fleetwood: "The best putts are generally short putts; they're the hardest under pressure." The expectation that you *should* hole them adds pressure. He calls **5 feet** "the biggest gain or loss distance".
+
+## Why short putts are missed
+
+- **Alignment, not stroke** (PK). On a short putt across even a 1% slope the start-line window is tiny. Many golfers carry a habit of aiming outside the hole from years of under-reading. Use the line on the ball for precision and commit to it.
+- **Too wristy** (JJ). Too little movement from the butt of the club and too much wrist action. Use the tee-in-the-grip drill (Chapter 5).
+- **Anxiety and peeking** (PK). Under pressure the eyes and head move before impact, which hurts strike, face control and start line.
+- **Line and speed mismatch** (JJ). After Rory McIlroy's famous short miss on 18, JJ pointed out that the putt (just under 4 feet, downhill, with a lot of left-to-right break) was harder than people thought. Before blaming his technique, the likeliest cause was simple: for the line he chose he didn't hit it firm enough, or for the speed he hit it he didn't play enough break.
+
+!DRILL Quiet eyes: the blade-of-grass drill (PK)
+Line up, set the putter down leaving a **tiny gap** behind the ball, and look at the hole. As your eyes come back, pick **a blade of grass directly behind the ball** and focus on it, while staying aware of the target in your mind's eye.
+- Make the stroke while still looking at the blade of grass. You may see an after-image of the ball.
+- Because you've stopped "peeking for the ball", your eyes and body stay quiet. "Quiet eyes, quiet mind, holed putts."
+!END
+
+[PK] **Tommy Fleetwood shuts his eyes.** At a bumpy Chambers Bay US Open, Tommy decided to putt *everything inside 6 feet with his eyes closed*. He did it again on the winning putt in France. "Your true stroke comes out because you can't guard anything... it took me away from trying to guide it." Phil calls it "giving up control to gain control".
+
+!DRILL Short-putt practice
+- **5-footers in bulk (Fleetwood):** the distance with the biggest gain or loss. Or go shorter (3 feet) to build the visual of the ball going in.
+- **Around the clock, N-S-E-W (Fitzpatrick, as a junior):** hours of 3, 4, 5 and 6-footers around the hole. "Then you go on the course and feel like you can't miss."
+- **Pressure ladder (PK, Odyssey drill 9):** hole a 3-footer, then 4, 5, 6 feet and so on until you miss. Record your best and try to beat it tomorrow. The closer you get to your record, the more pressure you feel.
+- **Compass drill (JJ):** Chapter 7, with tour benchmarks.
+!END
+
+!SRC PK "The importance of the start line", "Stop being scared of short putts"; JJ "Rory on 18", "Become LESS WRISTY on short putts", "Master Short Putts with the Compass Drill"; PK x Fleetwood and Fitzpatrick; PK Odyssey drill 9.
+
+# 9. The Pre-Shot Routine and Focus
+
+## What a good routine does
+
+- It **keeps the picture fresh** from the read to the stroke (PK's aim-focused routine: practice strokes behind the ball, Chapter 4).
+- It gets the **sequence** right: aim the putter, then set the body (PK's body-aim lesson; JJ's "putter first"). Visual aimers set their eye position first, then aim the putter (Chapter 2).
+- It points your attention **outward**, at the target, the curve and the speed, rather than inward at mechanics.
+- It's **repeatable** and keeps you present (AimPoint's step-by-step process).
+
+## An externally focused routine (PK)
+
+Phil filmed an England squad player (statistically the strongest part of his game was putting) on an 8 to 10-foot left-to-right putt:
+- **Fluid back-and-through rehearsal strokes** that aren't the exact size of the putt, just gaining a feel for the speed of the handle and head.
+- His **eyes trace the putt backwards**: hole, final third, halfway, start, then slowly back to the ball.
+- He spends **most of his time looking down the putt** and very little looking at the ball. He has a clear intention of the path and speed, then "putts to that picture".
+- Phil's comment: once golfers work on mechanics and aim they "become very focused on looking at their feet, looking at how the putter's moving... we forget the task is to roll the ball over a specific area."
+
+[JJ] JJ's version follows Tiger Woods: realistic practice strokes while looking at the target and painting a picture, one last look, then "putt to my picture".
+
+## Write down your routine (Tommy Fleetwood)
+
+[PK] Tommy writes down what a **good** routine sounds like versus a **bad** one. Bad: "I think it's right edge, but I might give it a bit more... I'll go right edge and a bit firmer... I missed one on the last green..." Good: "Right edge. That's my line. Go." "If you actually write it down, it's so easy to write a bad one down." Rehearse the good version until it becomes habit, and use positive, decisive language.
+
+## Attentional cues during the stroke
+
+Finding *where your attention goes* (aim point, gate, apex, curve or entry point) is covered in Chapter 7. Phil uses PuttView to measure which cue gives each player their best start line, and calls it one of the most powerful parts of tuning a routine.
+
+!SRC PK "Putting Drill Routine – External Focus", "Aim Focused Putting Routine", "Body Aim Bias Putting Lesson Example", "Visual Aimer Putting tips", PuttView episode 3; JJ "Visualise Putts LIKE TIGER WOODS", "Set your PUTTER FIRST"; PK x Fleetwood; JJ x Donaldson.
+
+# 10. Equipment, Fitting and Ball Roll
+
+## How the ball leaves the putter (Dr Paul Hurrion on JJ's podcast)
+
+**Launch angle.** The ball sits in a small depression made by its own weight. Aim for a **launch of about 0.75° to 2°**: lower on fast, smooth greens, nearer 2° on slower ones (a typical stimp-9 UK green). Below about 0.75° the ball is trapped in its depression and "pops" out with a hop. Above 2°, at 4 to 5 mph of ball speed, it's airborne and bounces unpredictably. Contact with the grass provides by far the most friction, so you want the ball in contact with the surface. Launch comes from loft *and* delivery: Zach Johnson (hands behind the ball) and Bryson DeChambeau (big arm-lock forward press, about 6° of loft) can both launch at about 2°. Padraig Harrington, who keeps the shaft vertical with about 2° of loft, struggled on slower corporate-day greens: **not enough loft** for the conditions.
+
+**Skid and true roll.** True roll means one revolution of the ball for each 5.25 inches travelled. A ball can't reach true roll within the first foot of a 10-foot putt. Typically it reaches true roll at **10 to 25%** of the putt's length; about 10% skid and 90% roll is ideal. **Consistency** matters more than a perfect number. Hurrion would be "over the moon" with 82% ± 1%, because different skid lengths mean different speeds at the hole and **different amounts of break**. Improving a player's roll changes his distances and reads for a while, so expect an adjustment period.
+
+**"Rolls better".** When a putter "rolls the ball out better", it simply reached true roll sooner and lost less speed while skidding. Once rolling, the physics is identical: all sidespin is gone.
+
+**Sidespin and rifle spin.** Putts launched with **backspin and sidespin** are vulnerable. As backspin passes through zero, the tilted spin axis ("rifle spin", like a snooker ball or an American football) can steer the ball off line. Aim to launch with the spin axis already near true roll: **overspin at least 5 times sidespin** (e.g. 50 rpm overspin, under 10 rpm sidespin). More than about 20 rpm of sidespin is "not great". Sidespin comes from a **face-to-path difference** or a **toe or heel strike**, so fix those. High-friction milled faces raise sidespin *and* overspin.
+
+[JJ] **"End over end" isn't proof of a good start line.** A ball rolling end-over-end tells you about *sidespin*. It doesn't tell you the ball started where you aimed. Check start line with a gate.
+
+**Negative loft "to get it rolling early" is a flawed idea.** Trapping the ball can produce 150 rpm of overspin, but only because it hopped through the air. It's inconsistent.
+
+## Impact ratio ("smash factor")
+
+**Impact ratio = ball speed ÷ putter speed.** About **1.6 is soft**; **1.8 to 1.9 is hot**. It changes with:
+- **The putter face or insert.** Danny Willett's new Odyssey had a lower ratio and left him short. Even Roll putters, with wide central grooves, are soft in the middle; a lightly grooved Scotty Cameron Phantom X comes off much faster.
+- **The ball.** Ten tour balls tested on a robot came off the same putter differently. A difference of 0.1 is like 10 mph versus 11 mph of ball speed. Practise with your playing ball.
+- **Acceleration.** More acceleration at impact means a higher, less predictable ratio (Chapter 5).
+- **Strike location.** A good putter returns similar energy across the face. Hurrion maps 9 points on the face to test this.
+
+Consistency target: 10 putts with **ball speed within 0.5 mph** means you're "doing a lot of things right".
+
+## Blade vs mallet: what really happens on off-centre hits
+
+[JJ] Research by Hurrion with Alistair Cochran, discussed on JJ's podcast:
+
+!TABLE
+Head type | Off-centre strike (about 1 cm toe) | Result on long putts
+Blade (CG close to the face) | Starts closer to the intended line (**more forgiving for direction**) but **loses a lot of speed**. A 20-foot putt can finish 2 feet short. | Finishes further from the hole.
+High-MOI mallet (CG further back) | Starts **further offline** but **loses much less speed**. | Usually finishes **closer to the hole**.
+Heel-toe weighted blade (Anser type) | A compromise: as much MOI as possible while keeping the CG forward. | Why that classic design works.
+!END
+
+[JJ] So a mallet is **not** "for straight-back-straight-through strokes". It's for golfers who **struggle to find the middle on long putts** and need better distance consistency. Inside about 8 feet the extra directional deviation shouldn't matter much if you strike it reasonably well.
+
+## Toe hang, face balance, lie-angle balance and "torque"
+
+[PK] **Torque** is a putter's potential to twist as you swing it. Every putter has a torque profile:
+- **Face-balanced**: with the shaft horizontal the face points up. At lie angle the head does twist (its CG is behind the shaft axis), but in-plane motion twists it very little.
+- **Toe-hang**: in-plane forces make the **toe lag** going back. As you slow to the top it catches up, then lags again in the downswing.
+- **Lie-angle balanced (LAB)**: the face sits square when the putter is held at its lie angle, because the CG is slightly *inside* the shaft axis. It's a static definition; the toe actually works slightly *open* at the start of the backstroke. The idea isn't new (the Odyssey 2-Ball Backstrike was lie-angle balanced). **LAB is not the same as "torque-free".** A truly torque-free putter would hold any position you put it in, and few on the market do. The grip axis being offset from the shaft also creates torque.
+
+[PK] The torques involved are **tiny** and are easily overridden by light thumb and finger pressure. **Torque isn't a dirty word.** It gives you subconscious, real-time feedback about where the face is. Phil has seen students switch to low-torque putters and get *worse* over time, because they lost their feel for the face. Low-torque putters can also **feel lighter**, so consider a higher swingweight, and LAB designs with the CG far back can perform poorly on off-centre hits.
+
+[PK] **A starting point, not a rule:**
+- Typical **pull** bias: try **more toe hang**, since the toe tends to lag. Be careful switching to a LAB putter.
+- Typical **push** bias, or trouble squaring the face with toe-hang or face-balanced putters: try **face-balanced**, or test a **lie-angle-balanced** putter.
+- Then *test* whether your stroke actually responds that way. The myth that toe hang "helps the toe release" is backwards physics.
+
+[JJ] James agrees there's **no generic rule** linking strokes to putters. A toe-hang putter can make one person push (open in the transition) and another pull (the toe overtakes). Your stroke has developed around the putters you've used, so fittings often end up close to what you've played for years. Also consider total weight, swingweight, where the weight sits, MOI, head shape and alignment aids.
+
+## Fitting checklist
+
+- Get the putter **fitted with ball data**, not just stroke data. Ten "Anser-looking" putters set to the same 2° loft and hit by a robot gave noticeably different launch, spin and speed (Hurrion). "You wouldn't fit a driver without ball data."
+- Check **loft** (launch 0.75 to 2° for your greens and delivery), **lie** (it depends on your grip and posture) and **length**. Many good players don't know their putter's loft.
+- Choose the head (blade or mallet, toe hang or balance) by **your miss pattern** and by measurement.
+- **Don't keep changing putters.** Tommy Fleetwood has won all of his events since 2016 with the same Odyssey gooseneck blade. "Whenever I've changed it hasn't necessarily made me better." Hurrion: "If that putter was really that good it'd be with you forever." Matt Fitzpatrick had Bettinardi make an exact copy of his old putter.
+
+!SRC JJ x Paul Hurrion podcast parts 1 and 2; JJ "Blade VS Mallet", "Face Balanced vs Toe Hang Putters", "Improve Consistency: Why Smash Factor Matters", "Practice and Play with the same ball!", "End over End" shorts; PK "Lets Torque Putting", "SuperStroke's of Genius"; PK x Fleetwood and Fitzpatrick.
+
+# 11. Practice: Structure, Benchmarks and Drill Library
+
+## Principles
+
+- **Train the skills, not just the stroke.** Phil's three traits of elite putters: they (1) appreciate *all* the skills (speed, reading, physical and mental routine) rather than always tinkering with mechanics, (2) give clear, calm feedback on their performance, and (3) don't panic.
+- **Performance practice beats aimless putting.** Matt Fitzpatrick spent his junior years on **scored** drills (around-the-clock, "rounds" of 6 to 12-footers on a 10-hole putting green) and never worked on his stroke. "The best form of practice is to hit putts and try to hole putts, because you've got to hit your start line, control your speed and read the green": all three skills at once.
+- **Variability.** Change the putt, the read and the intention every time (Fleetwood, PK). "You're never hitting the same putt twice."
+- **Feedback.** Gates, ghost holes, templates, mirrors, lasers and recorded scores. Green reading in particular gets almost no feedback on the course, because the ball is on its way before you look up.
+- **Scenarios.** Jamie Donaldson creates "flavours" of putts: 7 birdie putts from 9 to 20 feet after good shots, 2 inside 8 feet, 3 long lag putts, and par-saving putts after deliberately poor chips. One player's weakness only showed up in these games: on 12-foot par saves he became protective and left them low and short without changing his read.
+
+## Fitzpatrick's practice structure
+
+[PK] Matt has about **12 performance drills** from Phil, split into three categories:
+- **0 to 10 feet**: short putts.
+- **10 to 20 feet**: mid-range.
+- **20 feet and over**: pace.
+
+He rotates through them so each practice cycle includes one from each category, and he records every score in a spreadsheet, along with **miss analysis** (over- or under-read, too hard or too soft). A typical hour: **template mat** (stroke and start line), then a **pace drill to a fake hole**, then a **scoring drill** that brings in green reading.
+
+**For club golfers:** pick 3 drills you like. Do one all week, then rotate to the next. Keep the scores. If they're not improving, find out which skill is breaking down: stroke, read or pace.
+
+## Benchmarks: how good are you?
+
+!TABLE
+Test | How it works | Tour-level target
+Points drill (Mark Broadie / Stenson; PK) | 5, 10 and 15 ft, varied putt types. Holed = +2, short = −1, three-putt = −3, missed but past = 0 | Reach **15 pts at 5 ft, 10 pts at 10 ft, 5 pts at 15 ft**. Record how many putts each takes and compare with tour averages.
+"1872" test (PK) | Putts from 8 ft, 8 points per make; how many putts to reach 72 points (9 makes)? | Tour players make about 50% from 8 ft, so about **18 putts**.
+100-foot drill (PK) | 5, 10, 15 and 20 ft putts to one hole from different angles, at 5 holes: 20 putts, 250 ft available | Hole **100 ft** of putts = a **PGA Tour winner** standard.
+Compass drill (JJ) | 8 positions at each of 3, 4, 5 and 6 ft = 32 putts, scored on first attempt | Tour make rates: 95% / 85% / 75% / 65%, so **miss no more than 4 or 5**.
+Pressure ladder (PK) | Start at 3 ft, step back 1 ft after each make | Beat yesterday's record.
+Birdie conversion (Donaldson) | All birdie chances inside 20 ft | About **60%** made is Jamie's working target with tour players.
+Speed consistency (Hurrion) | 10 putts on Quintic | Ball speed within **0.5 mph**.
+!END
+
+## Drill library: quick reference
+
+!TABLE
+Skill | Drill | Coach and where it's described
+Aim and perception | Perceptual-bias tee test; string and masking-tape test; T-Line; laser dot aim test | JJ, PK: Chapters 2 and 4
+Start line | Gate ladder (0.75° at 11 in, 0.5° at 17 in); Start Line Trainer; Fitzpatrick's gate | PK: Chapter 4
+Stroke path | String symmetry; 4-ball path guides; tee-gate path drill; Mi template filmed from above | PK, JJ: Chapter 5
+Strike | Blu-Tack face; two-ball heel/toe gate with varied lengths | PK: Chapter 5
+Wrists | Tee-in-grip; thumbs-off | JJ: Chapters 3 and 5
+Tempo and acceleration | Multiple-stroke drill; metronome 1-2-3 ladder; "one-two" length ladder; coin drill (coin must come off, 8 to 15 ft); LagShot feedback | JJ, PK: Chapter 5
+Speed | Box drill; 3 speeds and 3 lines; 6 lines from one putt; 6 to 12 ft speed ladder; ghost-hole above/below; tee behind hole; interim target | PK, JJ, Fleetwood: Chapter 6
+Green reading | Ghost hole at 2/3; map the curve with discs; build from the hole back; tendency analysis; compass drill; Woodland options | JJ, PK, Hurrion: Chapter 7
+Routine and attention | Attentional-cue test; practice strokes behind the ball; write your routine | PK, Fleetwood: Chapters 7 and 9
+Pressure and scoring | Points drill; 1872; 100-ft drill; ladder; compass; scenario rounds | PK, JJ, Donaldson: this chapter
+Short putts | Blade-of-grass quiet eyes; 5-footers; around the clock | PK, Fleetwood, Fitzpatrick: Chapter 8
+Body stability | Pelvis against a chair; mirror tilted to the side | PK: Chapter 2
+!END
+
+!SRC PK "3 traits of elite putting performers", "The 100FT Drill", Odyssey intro and drills 9 and 10, "5 effective ways of putting practice"; PK x Fitzpatrick; PK x Donal Scott interview; JJ "Master Short Putts with the Compass Drill"; JJ x Donaldson and Hurrion podcasts.
+
+# 12. The Mental Game and Performance
+
+## Commitment beats perfection
+
+- "If you're committed to a fairly functional read, then you've got a chance to start it online and match the speed." (PK, with Tommy Fleetwood)
+- Henrik Stenson, describing his final-round putting at Royal Troon to win the 2016 Open (one of the finest major final-round putting displays Phil has seen): "I'm very much in the moment... I don't reflect on results, I'm just picking good lines and not standing in the way."
+- Martin Kaymer's 2012 Ryder Cup winning putt (about 7 feet, uphill, right-to-left): he had learnt the line from his first putt, from the other side. "My head was very clear. I knew exactly where I wanted to aim, I knew exactly how the putt would roll."
+- Abu Dhabi 2017: Tommy was "nervous but in control". He'd putted well all week and "never even contemplated missing".
+
+## Dealing with misses and bad days
+
+- **Expect to miss.** The PGA Tour average is about **7 one-putts a round**, so even the best miss most putts outside short range. Putting statistics are the most volatile in golf: no one leads them for long, and tour make percentages haven't changed in 20 years (Donaldson).
+- **Lip-outs are good news.** "If you're hitting lips you're probably hitting your putt" (Hurrion). "I lipped out six times today" means "that's six good putts" (Donaldson). Train yourself to **miss close**.
+- **Don't panic** (PK). Elite players change nothing after a bad week: no new putter, grip or technique. They look for patterns and stay patient. Matt Fitzpatrick: "When I'm not putting well I just have to accept it... you do your work, fake holes and stuff, and it comes back."
+- **Intuitive players need a process to fall back on** (PK). Being instinctive is their greatest strength and their greatest weakness when things go wrong.
+- **Don't blame technique too quickly.** Most misses are line and speed mismatches or misreads (JJ on Rory McIlroy).
+- **"Comfort" and "consistency" are stories** (Donaldson). Players feel "comfortable" when they're 3 under after 3 holes. Aim to be *effective*. Nobody is a consistent putter week to week; some are simply better putters.
+- **Your stroke will vary.** Jordan Spieth said his stroke was different in majors he won. Full-swing practice (pounding drivers) can also leak into your putting setup: high lead shoulder, ball forward, chest open (Donaldson). Re-calibrate.
+
+## Pressure in practice
+
+[PK] Recreate pressure with the ladder, the points drill and scored games. Matt Fitzpatrick grew up competing in squad drill rankings: "If you had anything competitive about you, you wanted to be top of those rankings." Phil admits that full tournament intensity can never be truly recreated, and that some great players (Tiger) do lots of plain block practice. Performance drills are still valuable for variability, context and revealing your patterns.
+
+## Language and self-talk
+
+[PK] Tommy Fleetwood: keep the language **positive and decisive**. Tell kids to "never say anything negative". Write down the good routine ("right edge, that's my line, go") and rehearse it.
+
+!SRC PK x Fleetwood and Fitzpatrick; PK "3 traits of elite putting performers", Henrik Stenson, Martin Kaymer and Tiger Woods favourite-putt videos; JJ x Donaldson and Hurrion podcasts; JJ "Rory on 18".
+
+# 13. Troubleshooting: Diagnose Your Misses
+
+Use this table *before* changing anything. JJ: "You have to figure out: did you miss that because of the read or the execution?" Jamie Donaldson: "I teach people to miss and understand why."
+
+!TABLE
+Symptom | Likely causes | What to try (chapter)
+Missing low on breaking putts | Under-reading (most common); aiming at the apex; linear aim-point reading; dying speed (decay phase) | Two-thirds rule and double the offset; build the curve from the hole; firmer entry about 1 mph (7, 6)
+Missing high | Correct read but curve "looks low" so you aim higher; straight aim line feels low so you shove it up the slope; years of under-reading compensation | Eyes through the midpoint at 2/3; switch to a curve cue; gate on a known line (7)
+Pushes (right, for a right-hander) | Face open at address (body aim bias, feet closed); lead arm disconnected; perception of a straight line looking left; toe strike | Putter first then body; lead-arm connection; perceptual-bias test; strike drills; face-balanced/LAB test (4, 2, 10)
+Pulls (left) | Trail arm firing or wrapping; shoulders turning "around"; closed torso so the putter is lifted above plane; heel strike | Trail-arm connection; shoulders up and down; open torso and tilt (JJ lesson); toe hang test (2, 10)
+Leaving putts short | Backstroke too short or slow; internal focus; mis-strikes (especially with a blade); changed ball or putter with a lower impact ratio | Longer, faster backstroke at the same tempo; target focus; strike drills; play one ball (5, 6, 10)
+Blowing putts past | Hitting at the ball; big acceleration at impact; soft read forcing a firm hit | Coast through impact; multiple-stroke drill; check the read (5, 7)
+Inconsistent distance | Variable rhythm; a different ball in practice; inconsistent strike or roll | 1-2-3 metronome ladder; same ball; Blu-Tack; get fitted (5, 10)
+Wristy short putts | Tight grip trying to "lock"; sudden acceleration; no handle movement | Tee-in-grip; thumbs-off; smooth acceleration (3, 5)
+Missing short putts under pressure | Peeking or eye movement; steering; alignment outside the hole | Blade-of-grass drill; eyes closed (Fleetwood); line on ball (8)
+Can't tell if you aimed well | No feedback on aim | Laser dot test; mirror; T-Line; start line trainer (4)
+Ball skips, hops or rolls oddly | Launch too low (trapped) or too high; backspin plus sidespin; wrong loft for your greens | Check loft and delivery (Quintic); face-to-path; centred strike (10)
+!END
+
+## A simple diagnostic routine (combining both coaches)
+
+1. **Check start line on a straight putt** through a gate. If you can't start it on line, fix aim (setup, routine sequence, perception) before the stroke (Chapters 2, 4, 5).
+2. **Check speed** with the box drill and ladders. If distances are erratic, look at rhythm, tempo and acceleration, and at strike (Chapters 5, 6).
+3. **Check your read** with ghost holes and curve mapping. If good strokes through a gate on your read still miss, the read is the problem (Chapter 7).
+4. **Check your attentional cue** on breaking putts (Chapter 7).
+5. **Check equipment** if patterns persist: loft, lie, head type, ball (Chapter 10).
+6. **Track it**: keep scores and miss analysis over weeks, not single sessions (Chapter 11).
+
+# Appendix A: Numbers Worth Knowing
+
+!TABLE
+Number | What it means | Source
+About 1° start-line error | Edge of the hole at about 10 ft (2° at about 5 ft) | PK
+Under 1° | Needed start accuracy beyond 10 to 15 ft | Hurrion
+0.5° low | Missed at the right speed (except very short putts) | Donaldson / AimPoint
+0.75° / 0.5° | 5 cm gate at 11 in / 17 in from the ball | PK
+About 0.95 mph | Start of the decay phase; ideal entry speed about 1 mph | JJ, Hurrion
+6 to 12 in (about 9 in) past | AimPoint benchmark capture speed; tour best about 1 ft past | Donaldson
+12 / 6 / 16 to 18 in past | Roll-out at 1 mph: flat 9.5 stimp / 3% uphill / JJ's 10.5-stimp green | Hurrion, JJ
+About 2:1 | Backstroke time to downstroke time | PK
+643 ms / 322 ms | Example good timing (back / down) | PK coin-drill data
+85 to 110 bpm (about 100) | Metronome tempo range (about 100 = PGA Tour average) | JJ
+About 50/50 | Backstroke to follow-through length | JJ, PK
+0.75 to 2° | Ideal launch angle | Hurrion
+10 to 25% | Point of true roll as a share of putt length (about 10% ideal) | Hurrion
+5.25 in | Distance per ball revolution in true roll | Hurrion
+At least 5:1 | Overspin to sidespin ratio; under about 20 rpm sidespin | Hurrion
+About 1.6 / 1.8 to 1.9 | Soft / hot impact ratio (ball speed ÷ putter speed) | Hurrion
+Within 0.5 mph | Ball-speed spread over 10 putts for a consistent putter | Hurrion
+About 50% | Average visual misread (people see half the break) | Donaldson
+About 25% | Share of 20-ft putts a 17-handicapper three-putts | Stuart Leong via Donaldson
+50% at 8 ft | Tour make rate; 95 / 85 / 75 / 65% at 3 / 4 / 5 / 6 ft | PK, JJ
+About 35% | Putting's share of the strokes in an average PGA Tour win | PK
+About 7 | One-putts per round, tour average | Donaldson
+12° to 21° | Range of stroke-arc templates; shaft plane usually 17 to 21° | PK
+105 to 140 cm | Typical stroke radius of good putters | PK
+!END
+
+# Appendix B: Glossary
+
+- **Aim line / start line**: the straight line the ball must start on to follow the intended curve into the hole.
+- **Aim point**: a point level with the hole on the aim line ("hole high").
+- **Apex**: the point on the curve furthest from the baseline. Don't aim at it.
+- **Arc**: the curved path of the sweet spot seen from above.
+- **Baseline**: the straight line from the ball to the hole.
+- **Decay phase**: the final part of the roll below about 1 mph, where deceleration increases and break is magnified.
+- **Drop point / two-thirds point**: the point about two-thirds of the way to the hole where, on a planar slope, the ball passes midway between the baseline and the start line.
+- **Entry speed**: the ball's speed as it reaches the front edge of the hole.
+- **Face-balanced / toe hang / lie-angle balanced (LAB)**: how a putter head hangs. LAB is *not* the same as torque-free.
+- **Ghost hole**: a flat practice disc used as a target or a two-thirds reference.
+- **Impact ratio / smash factor**: ball speed ÷ putter speed at impact.
+- **Linear / non-linear putter**: aims at a straight-line reference, or reacts to the visualised curve.
+- **Perceptual bias**: a mismatch between how a straight line looks from your setup and where it really points.
+- **Rhythm vs tempo**: rhythm is the ratio of backstroke to downstroke time; tempo is the overall speed of the stroke.
+- **Rifle spin**: spin around a tilted axis that can push the ball offline as it changes from skid to roll.
+- **Skid / true roll**: sliding phase after impact / pure rolling (one revolution per 5.25 in).
+- **Transition lag**: the putter shaft flexing as you begin the downstroke before the backstroke has finished.
+- **Torque**: a putter's tendency to twist as it is swung.
+# Appendix C: Source Videos
+
+Every video below was transcribed from its YouTube captions and read in full to compile this manual. To watch one, go to youtube.com/watch?v= followed by its ID.
+
+## JJ Putting: James Jankowski (59 videos)
+!TABLE
+Title | Video ID (youtube.com/watch?v=…)
+3 Great Putters organising the transition sequence in the same way! Before the backstroke finishes! (music only) | FTfii4rxsTw
+Aiming / Targeting Breakers Full video on My Channel What do you guys do? Comment below | 9UeEumILyTo
+Aiming Breaking Putts | 0RC5dmLKZSs
+Are your putts matching what you’re seeing? | l3vCV3o311w
+Arm Structure common mistakes in putting set up | 2XDcUfLDjtI
+Become LESS WRISTY on short putts with the TEE DRILL - JJ Putting : YouTube channel | _hCM1q5oXDY
+Better Distance Control in Putting - JJ Putting | NMh2QDrUr2c
+Biv with some Grip wisdom! Rest in peace my friend! | a6Gc0naTtno
+Blade VS Mallet | 6RqXkDCtyYg
+Breaking putts give you options Test the boundaries to develop your skill! | cg2nOtOCpmM
+Claw Grip Trail Arm Structure How to structure the trail arm for the claw grip! | n78H0ZgDJ5w
+Common backstroke problems! | GpiR6BxM5u0
+Do you have a Perceptual Bias? - JJ Putting | 4JJfWgLWDqQ
+Does the Putting Stroke move Straight or Arc? It can be both!! | MozctIx-3rk
+Easy STRIKE and PATH Putting Drill - JJ Putting : YouTube's most comprehensive putting channel | 6vfTAbGg1NY
+Efficient Acceletation Often improves speed control, strike and face control in | Ma74ujJCED4
+Entry Speed Secrets: Master the 'Decay Phase' for Better Putts | DVD04_Cmj5Y
+Face Balanced vs Toe Hang Putters - JJ Putting | xCaasRghH4Y
+GREEN READING - What 4 things make a putt break more? - JJ Putting | OkTq7391Cwg
+Hideki Matsuyama Putting Analysis | NW3fN0QBlM0
+HOLE MORE breaking putts? LEARN whether it's your read, line or speed! | ZsMnj412BbY
+How can you improve connection for more consistency? - JJ GOLF - PUTTING LESSONS | 9ZKN612lLWc
+How I use a Line on Breaking Putts! - JJ Putting | n0xUfLqNmlc
+Improve Consistency: Why Smash Factor Matters in Putting | X00Ny2T5pmI
+Is your backstroke too slow?? - JJ Putting : YouTube's most informative golf putting channel | Rqr7GL3BMJA
+Live Putting Lesson with a Pro / Top Tips from JJ Putting Coach | QDH4SizjKF4
+Load It. Unload It. Sink More Putts / Putting Timing Secrets | be8oktYXl64
+Luke Donald Putting Analysis - JJ GOLF - PUTTING LESSONS | Zp1du21RERw
+Master Short Putts with the Compass (Clock) Drill | rhamXqEhXr4
+Mastering Breaking Putts: Do this Speed Drill for Precise Speed Control! | jOn4zEcYrcc
+Path Matters! One reason being its influence on start direction, which varies putter to putter! | u_JVr0mYEAI
+Podcast with Leading AIMPOINT coach Jamie Donaldson - JJ Putting | 91KrZWuUqiQ
+Practice and Play with the same ball! Low compression golf balls come off the face faster! | 7pm5gOXfBfI
+Practice What You Preach Worked on a couple bits yesterday | APUtIYG114U
+Proper Putter Transition Requires Opposing Force | TPIwQ02nfew
+Putt for Dough (no spoken content) | p3Do2Km5-vg
+Putting Grip Pressure something to think about!! | Q19ixvjgTAI
+Putting Podcast with Quintic Sports owner Dr Paul Hurrion - Part 1 | Yw2eFtA-MPg
+Putting Podcast with Quintic Sports owner Dr Paul Hurrion - Part 2 | -qkLybjjHL0
+Putting Speed and Line Matching Drill - JJ Putting | lvmHkEsLd8k
+Putting Tempo Drill using a METRONOME | V3rxfrwP2BM
+Rory on 18 why did he miss??? | JGhNf5iJqKs
+Seeing is Believing Love visual feedback for the path of breaking putts. | PKeXm0RbLWA
+Set your PUTTER FIRST in your routine - JJ Putting : YouTube's most informative golf putting channel | 1Ts96GjouvU
+Short Putt Long Putt | dSGen2bGb-g
+Sink More Breaking Putts: Find Your Perfect Method | RaCaln4oveA
+Sometimes your grip type can make a big difference to your pattern. Often it doesn’t | Y5v2gZOOy0k
+Stop AIMING your putts at the APEX! - JJ Putting : YouTube's most informative putting channel | plK-Ik4d0uo
+Stop Locking Your Wrists Do This Instead When You Putt! | 1DKJJmSNOFg
+Stop thinking longer and think faster | h8WluqR4sVU
+Struggle with FAST PUTTS? Try this! - JJ Putting | 7BPb3i1c930
+The 2 Keys to Speed Control: Visualising + Feeling Pace | EJjYfYKhdx4
+The JJ Multiple Stroke Putting Drill - JJ Putting | UpR2aj6wLMw
+Transition Acceleration | LT4-ne0e_uA
+Try this drill to get better at SPEED CONTROL!! | 9o45Go_426A
+Understand & Master Smooth Acceleration with Equal Stroke Length | gbgsmK77c1I
+Visualise Putts LIKE TIGER WOODS - JJ Putting : YouTube's most comprehensive putting channel | Bl2wArtDC7Y
+Why the putting stroke must ARC - JJ Putting : YouTube's most informative golf putting channel | mrivpJoAhbA
+Why we want zero acceleration at impact - JJ Putting : YouTube's most informative putting channel | mTuH235Nl80
+!END
+
+## Phil Kenyon Putting (36 videos)
+!TABLE
+Title | Video ID (youtube.com/watch?v=…)
+3 traits of elite putting performers | L7B_U3xWU3o
+Aim Focused Putting Routine | d52Wcv_f3PI
+Body Aim Bias Putting Lesson Example | ezZ_Of-P6WQ
+Favourite Putts 2 - Tiger's pressure putt in the 2008 US Open | mEZHpwmH9UQ
+Golf Coach Donal Scott interview Phil on putting coaching | Z-xRvyjIVfo
+How do I improve my putting distance control on the greens? Learn how to control your acceleration! | tv9YBrid-eM
+Intro to Odyssey month with tour putting coach Phil Kenyon from Harold Swash Putting | EFKocCmYk3w
+Lets Torque Putting | LHwChX2XpRs
+Matt Fitzpatricks putting coach Phil Kenyon chat about all things golf. | TyshweglKKc
+My Top 10 Favourite Putts. Martin Kaymer talks through his pressure putt at the 2012 Ryder Cup. | vl3RrKT62bE
+Odyssey month drill 1 - putter face alignment at set up | q1JQS7Ku1zU
+Odyssey month drill 10 - point scoring drill | 3Qi260I5bpc
+Odyssey month drill 2 - how putter head characteristics can help you sqaure up | DShkZsWepoA
+Odyssey month drill 3 - consistent rhythm and tempo is key to mastering pace control | XxY7t_QZgwo
+Odyssey month drill 4 - train touch and feel with the 'box drill' | 50XqL0Yc1x4
+Odyssey month drill 5 - stroke path symmetry | n2EYCyFxits
+Odyssey month drill 6 - stroke path direction | pJxHiI_TbBY
+Odyssey month drill 7 - pelvic stability test | w6nD7QV73lY
+Odyssey month drill 8 - strike pattern | 4FSYNcrZZ8Q
+Odyssey month drill 9 - pressure putting | CxH0GWCEM_8
+Phil Kenyon client Henrik Stenson talks about one of the best putts | kkmv50s_Fyk
+Putt Geometry - The Apex - Green Reading | 5HKXVTyLp6Y
+Putting - The Right Concepts | alJRY2Q3_Aw
+Putting Drill Routine - External Focus | AVeFCIQylOw
+Raes Creek Myths at the Masters. When putting, does the Ball Break towards it? | pA29b-kUE2M
+Seve Ballesteros - Analysis of his putting stroke | k1oJiSGweY0
+Start line and Speed Putting Drill | rL3VX16K8u0
+Swash Putting 'Three Skills' clinic | kjHymqD6INM
+The 100FT Drill | QHRvFjMqM5c
+The Biggest Mistake Golfers Make! | 0aWXlzffVxo
+The new 'ZEN Green Stage' installation at Harold Swash Putting | Q6-0y5OSXzI
+The Putting Social.Tommy Fleetwood & Phil Kenyon talking about putting tips and Tommys Golf career. | 9NUrBh_h0RQ
+The truth about the coin drill! | 3C1AwzmzOOU
+Tour coach Phil Kenyon on the benefits of Zen Green Stage - Harold Swash Putting School, Formby Hall | vj7T0UUbibg
+Visual Aimer Putting tips - Pre Shot Routine. Try this to help you aim better more consistently. | ktgUqM3T_s8
+What a putting lesson looks like at Phil Kenyon Putting | yIiynnv7dsw
+!END
+
+## Phil Kenyon on the PuttView / Visio Putting channel (37 videos)
+!TABLE
+Title | Video ID (youtube.com/watch?v=…)
+A Fitting Guide for the 'New Visio Mi Putting Template' by Specialist Putting Coach Phil Kenyon. | UlUoH7rJ-GY
+Coaches Pack video with specialist putting coach Phil Kenyon | hjNka5dTe8U
+Drill 04 / Analyze your tendencies / Drills by Phil Kenyon | 0lw3ncN6SfI
+Drill 06 / Speed control - matching intentions / Drills by Phil Kenyon | H86Wkfjyl1I
+Interview with Phil Kenyon / All things PuttView X | f_Pd-IXQFVM
+Laser + Tripod with specialist putting coach Phil Kenyon | qXy_jGNKckM
+Mic'd Up / Justin Rose and putting coach Phil Kenyon / 2021 Abu Dhabi HSBC Championship | B4jrvkWmP9M
+Phil Kenyon / 5 effective ways of putting practice | ofQPi1WprG8
+Phil Kenyon / Control your rhythm and tempo | ts0KMrHC49A
+Phil Kenyon / Develop a consistent stroke | dZTk1Ygyp6A
+Phil Kenyon / Fix your speed control | vhUoNnxVQXA
+Phil Kenyon / Fix your speed control and stop three putting! | JWwdpikrqZM
+Phil Kenyon / How to build a true picture of the break | qQb5abtZAVc
+Phil Kenyon / Learn where your misses come from | vlC6FIKTHz0
+Phil Kenyon / Missing putts high? This could be the reason | u6K3re4kMPI
+Phil Kenyon / Missing putts high? Try this process | v6sTfW465yY
+Phil Kenyon / Missing putts low | j2fP2JuHrw8
+Phil Kenyon / Stop being scared of short putts | pLe2G1RSYZ4
+Phil Kenyon / Stop Pulling Putts | mwEWTRbzmPk
+Phil Kenyon / Stop pushing putts! | UywLh-JSLqw
+Phil Kenyon / Stop underreading putts | SlLpCqWbj_w
+Phil Kenyon / The importance of the start line | 5tMnwflCQjQ
+Phil Kenyon recommends PuttView 1 | gjuQNTcQVZI
+Phil Kenyon specialist putting coach talks about the 'Mi Putting Template'. | CpY6KFJZs5U
+Phil Kenyon specialist putting coach talks about the 'Start Line Trainer'. | owsc8-1kJH0
+Phil Kenyon specialist putting coach talks about the Putting Mirror. | cy0VX1Sdchg
+Phil Kenyon talks about the T-Line training aid. | LlIK1P-5uD4
+Phillip Kenyon recommends PuttView 2 | rBry5lGNues
+Putting Practice with Phil Kenyon & PuttView - Episode 1 | XQbMyJHslE8
+Putting Practice with Phil Kenyon & PuttView - Episode 2 | 0hx_Yk8dBBE
+Putting Practice with Phil Kenyon & PuttView - Episode 3 | L_J4JNIknCU
+PuttView X - First Look with Phil Kenyon | k8mcVXD5euA
+PuttView X / First ever putting lesson with Phil Kenyon | 8AUN2lDXtvA
+PuttView X / First ever putting lesson with Phil Kenyon | jRlmuJFEj8k
+SuperStroke's of Genius with Phil Kenyon | m_M47ZCkiQg
+T-Line with specialist putting coach Phil Kenyon | I9vCAefEpyg
+The Visio Coaches Pack created by putting coach Phil Kenyon | EERMqabIzYI
+!END
+
+## Videos not covered
+
+31 further videos on the channels had no captions available, so they couldn't be transcribed. Almost all are JJ Putting Shorts under a minute long, many of them music over on-screen text. Their topics (e.g. "Lock the wrists — no; quiet wrists — yes", "End over end doesn't mean your ball started online", "The truth about tempo", "Rate of closure", "The putting yips", "Build a neutral grip", "Level shoulders when putting?") are all covered by the longer videos above. Interviews with these coaches on *other* people's channels (e.g. Peter Finch, Mark Immelman, HackMotion) were not included.
