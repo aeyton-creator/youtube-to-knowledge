@@ -15,6 +15,37 @@ The world's largest commodity market by value. Around 100+ million barrels per d
 
 **Dated Brent** (Platts) is the physical benchmark for roughly two-thirds of world crude. Basket: Brent, Forties, Oseberg, Ekofisk, Troll, and since mid-2023 **WTI Midland** delivered into Rotterdam, which now frequently sets the Dated price. The complex runs Dated → Forward (cash BFOETM) → ICE futures, linked by CFDs (contracts for difference) and EFPs.
 
+## The Brent basket: deliverable grades
+
+"Brent" today is not one crude but a basket of light sweet grades. Platts assesses each grade for cargoes loading 10 days to one month ahead, adjusts for quality, and **the most competitive (cheapest) grade sets Dated Brent**. The same grades can be delivered against forward (cash) Brent contracts, which is what ICE Brent futures ultimately settle against.
+
+| Grade | Origin / loading | Approx. API / sulfur | Role in the basket |
+|---|---|---|---|
+| Brent | UK, Sullom Voe (Shetland) | ~38° / ~0.4% | The original grade; now tiny volumes |
+| Forties | UK, Hound Point (Forth) via the Forties Pipeline System | ~40° / ~0.6–0.8% | Highest sulfur in the basket (Buzzard field); carries a sulfur de-escalator; historically set Dated most often |
+| Oseberg | Norway, Sture | ~37° / ~0.2–0.3% | Higher quality; earns a quality premium, so rarely sets Dated |
+| Ekofisk | Norwegian fields, landed at Teesside (UK) | ~38° / ~0.2% | Quality premium; rarely sets Dated |
+| Troll | Norway, Mongstad | ~35–36° / ~0.1–0.2% | Added in 2018; quality premium |
+| WTI Midland | US Permian, assessed delivered (CIF) Rotterdam | ~40–44° / ~0.1–0.2% | Added for June 2023 deliveries; by far the largest volume, and now sets Dated most of the time |
+
+(API and sulfur figures are approximate and drift as field mixes change; check the latest Platts methodology.)
+
+### How quality adjustments work
+
+- **Quality premiums (escalators):** sellers of the better-quality grades (Oseberg, Ekofisk, Troll) receive a premium when delivering against a forward Brent contract, so they compete on a quality-adjusted basis.
+- **Sulfur de-escalator:** Forties sellers pay the buyer a discount for each increment of sulfur above a threshold. Watch the Forties sulfur level when Buzzard output changes.
+- **Freight normalisation for WTI Midland:** Midland is priced delivered into Rotterdam and netted back to a North Sea basis using transatlantic Aframax freight. A move in that freight rate changes Midland's competitiveness, and with it Dated Brent itself.
+
+### Why the grade mix matters to traders
+
+- **Liquidity and squeeze risk:** North Sea output has been declining for decades. Each grade was added (Forties/Oseberg 2002, Ekofisk 2007, Troll 2018, Midland 2023) to keep enough deliverable cargoes in the basket to resist squeezes. Thin months can still be squeezed by one buyer accumulating cargoes.
+- **US export economics now drive Dated:** with Midland usually the cheapest grade, Dated Brent is effectively linked to Permian output, the WTI–Brent arbitrage, Gulf Coast export capacity and transatlantic freight.
+- **Spreads to watch:**
+  - Grade differentials: Forties vs Dated, Midland vs Dated, Ekofisk/Oseberg premiums.
+  - **CFDs** (Dated vs forward Brent, weekly) and **DFL** (Dated-to-frontline): the market's measure of how tight physical cargoes are compared with paper.
+  - **North Sea "window" activity:** bids and offers in the Platts Market-on-Close window. A single trader buying many cargoes is a classic early sign of a squeeze.
+- **Possible future additions:** Platts has consulted on adding further grades (for example, Norway's Johan Sverdrup, a medium sour crude). A sour grade in the basket would change Dated's quality and its relationship with Dubai.
+
 ## Quality fundamentals
 
 - **API gravity** (lightness) and **sulfur** (sweet <0.5%, sour >0.5%) drive refining value.
