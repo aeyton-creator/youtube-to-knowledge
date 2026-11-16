@@ -74,7 +74,7 @@ The world's largest commodity market by value. Around 100+ million barrels per d
 
 ## Inventories and term structure
 
-- OECD commercial stocks vs 5-year average is the classic balance gauge; it is inversely correlated with Brent time spreads.
+- OECD commercial stocks vs 5-year average is the classic balance gauge; historically inversely correlated with Brent time spreads (long-run correlation about −0.6). By late 2026 that rolling correlation had fallen close to zero, and spreads traded well above the inventory-implied level (a geopolitical premium of about $5–40/bbl during the Iran war). See *Theory of Storage* in Foundations.
 - **Cushing stocks** drive WTI front spreads; below ~20 mb operational minimums triggers sharp backwardation.
 - Floating storage economics: contango must cover freight (VLCC time charter) + financing.
 - Watch **Brent M1–M2**, **M1–M6**, **Dec–Dec** (Dec-red-Dec) spreads as balance barometers.
