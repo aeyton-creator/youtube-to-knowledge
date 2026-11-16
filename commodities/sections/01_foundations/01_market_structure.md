@@ -63,6 +63,48 @@ For a storable commodity, the theoretical forward price is bounded by the **full
 3. **Hedge ratio** = Cov(ΔS, ΔF) / Var(ΔF); cross-hedges need an empirically estimated ratio.
 4. Margin calls on hedges can create liquidity crises even when the hedge is economically correct (Metallgesellschaft 1993).
 
+## Producer and consumer flows and the curve
+
+Hedging flows mostly move the **back** of the curve, while inventories set the **front**: *"the front is physical, the back is financial."*
+
+- **Producers sell forward** (oil and gas companies, farmers, miners), usually 6–36 months out. This weighs on deferred prices: backwardation steepens and contango flattens.
+- **Consumers buy forward** (airlines, utilities, food processors, fabricators), lifting deferred prices. Consumers usually hedge shorter-dated and more opportunistically than producers.
+- **Speculators take the other side** and are paid for it. Keynes's *normal backwardation*: when producer hedging dominates, deferred futures trade below the spot price expected later, and the gap is the speculator's risk premium. It reverses when consumers dominate.
+
+| Flow | When it happens | Effect on the curve |
+|---|---|---|
+| Producer hedging | Into rallies: producers sell at budget or breakeven levels | Caps the back; steepens backwardation in a rally ("hedging wall") |
+| Producer hedge buybacks | Into selloffs: hedges unwound or restructured | Supports the back; flattens the curve |
+| Consumer hedging | On dips: buyers lock in cheap costs | Lifts the back; flattens backwardation |
+| Consumer panic buying | After supply shocks, when buyers are underhedged | Front and back rally together; whole curve shifts up |
+| Storage plays | When contango covers storage and financing | Buy front, sell back; caps contango at full carry |
+| Long-only index rolls | Monthly roll window | Weakens the front spread during the window |
+
+Producer hedging is **pro-cyclical**: it sells strength. That is why long-dated prices are far less volatile than prompt prices, and why a supply-shock rally lifts the front much more than the back.
+
+### Options flows
+
+- Producers often hedge with **collars** (buy puts, sell calls). Dealers on the other side end up **short downside puts**, which they hedge by selling futures as prices fall, so selloffs accelerate. They are also **long upside calls**, which they hedge by selling into rallies, so rallies are dampened.
+- The result is put-heavy skew in producer-dominated markets and fast, air-pocket selloffs. **Mexico's annual oil hedge** is the classic example: a very large put purchase that dealers hedge in the deferred months.
+
+### By market
+
+- **Crude oil:** US shale producers hedge heavily 12–24 months out, historically anchoring long-dated WTI near the cost of new shale supply. Airlines are the main consumer hedgers, but irregular. When producers are underhedged, rallies can lift the back end hard.
+- **Natural gas:** producers sell the 12-month strip; utilities and local distribution companies buy winter months ahead, supporting the summer–winter spread.
+- **Grains:** farmer selling drives harvest pressure on new-crop contracts and weaker basis. Farmers holding grain keep the old-crop/new-crop spread firm. Elevators carry most of the commercial short.
+- **Metals:** most miners no longer hedge. The unwinding of gold producers' hedge books in the 2000s removed a major seller from the back of the curve. Fabricators and cable makers are the main back-end buyers.
+- **Softs:** origin selling caps rallies (Brazilian coffee farmers on a weak BRL, West African cocoa boards selling forward). A board defaulting on forward sales can invert the curve fast.
+
+### Reading it in the data
+
+1. **CFTC COT:** Producer/Merchant shorts and longs show hedging intensity; Swap Dealer positions show OTC hedges passed through to futures.
+2. **Deferred-month open interest:** rising OI on rallies means producers are hedging.
+3. **Option skew:** deepening put skew in deferred months means producers are buying protection.
+4. **Company hedge books** (earnings disclosures): low hedge ratios leave the back end vulnerable to a squeeze.
+5. **Curve vs inventories:** when the curve shape doesn't match what inventories imply, flows are usually the reason.
+
+> **Rules of thumb:** backwardation plus low inventories is a genuine physical shortage. A back end that falls during a front-led rally is hedging, not bearish fundamentals. When producers stop hedging (low prices, depleted hedge books), the back end tends to be well supported.
+
 ## Desk notes
 
 > Add your own observations here. Anything you write in this file appears in the PDF on the next build.
